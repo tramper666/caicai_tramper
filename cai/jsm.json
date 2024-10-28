@@ -234,12 +234,39 @@
             "ext": "./lib/feimaolive.json"
         },
         {
-            "key": "https://www.25gt.com/vodhtml",
-            "name": "凤凰影院",
-            "type": 0,
-            "searchable": 1,
+            "key": "lf_live10_min",
+            "name": "路飞丨肥羊Live",
+            "type": 3,
+            "searchable": 0,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 1,
+            "changeable": 1,
+            "api": "./js/lf_live10_min-output.js",
+            "ext": "./json/lf_live.json"
+        },
+        {
+            "key": "csp_月光小雅",
+            "name": "♑月光小雅",
+            "changeable": 0,
+            "api": "csp_XiaoYa",
+            "type": 3,
+            "searchable": 1,
+            "ext": "eyJhcGkiOiJodHRwOi8vMTE0LjIyNi4yMjguMjI1OjQ1NjciLCJ0b2tlbiI6IiJ9",
+            "filterable": 1,
+            "quickSearch": 1,
+            "jar": "http://114.226.228.225:4567/spring.jar"
+        },
+        {
+            "key": "csp_HXP小雅",
+            "name": "♐HXP小雅",
+            "api": "csp_XiaoYa",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "searchable": 1,
+            "ext": "eyJhcGkiOiJodHRwOi8vNDIuMTkzLjE0OC4xNjA6NDU2NyIsInRva2VuIjoiIn0=",
+            "jar": "http://42.193.148.160:4567/spring.jar"
         },
         {
             "key": "csp_DiDuan",
@@ -639,12 +666,57 @@
             "ext": "http://122.228.85.203:1000/api.php/app/"
         },
         {
+            "key": "JS",
+            "name": "甄嬛｜4K影院",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./json/4KAV.js"
+        },
+        {
+            "key": "07104K-剧院",
+            "name": "紫薇｜4K影院",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./json/4K剧院.js"
+        },
+        {
+            "key": "金牌",
+            "name": "🥇金牌影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./json/金牌影视.js"
+        },
+        {
             "key": "gzys",
             "name": "瓜子影视",
             "type": 3,
             "api": "./lsq_open.js",
             "jar": "./lib/cat.js",
             "ext": "./json/gzys.js"
+        },
+        {
+            "key": "瓜子",
+            "name": "🍉瓜子┃APP",
+            "type": 3,
+            "api": "csp_Gz360",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729664575333/1023.jar;md5;5dbe8aa46395c6f5f978c05904ba1074",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0
         },
         {
             "key": "555app",
@@ -2166,6 +2238,39 @@
                 "分类url": "https://www.easepai.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html[https://www.easepai.com/zixun/{cateId}.html]",
                 "分类": "电影&电视剧&动漫&综艺&日韩伦理&热播MV",
                 "分类值": "1&2&4&3&30&36"
+            }
+        },
+        {
+            "key": "好鸭TV",
+            "name": "🥬好鸭┃TV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.haoyatv.com/",
+                "样式": "https://www.haoyatv.com/tv/daluju-Adalu-Y2024-Tduanju-Shot/page/2",
+                "数组": "class=\"movie-item&&class=\"hover-layer",
+                "标题": "title=\"&&\"",
+                "图片": "_src=\"&&\"",
+                "副标题": ">&&</span>",
+                "链接": "href=\"&&\"",
+                "播放数组": "<ul class=\"eps-list\">&&</ul>",
+                "播放列表": "<a&&a>",
+                "播放链接": "href=\"&&\"",
+                "播放标题": ">&&</",
+                "线路数组": "<h5&&h5>",
+                "线路标题": ">&&</b",
+                "分类url": "https://www.haoyatv.com/{cateId}{area}{year}{class}{by}/page/{catePg}",
+                "分类": "电影$movies#电视剧$tv#综艺$variety#动漫$comic#纪录片$docmentary#微电影$shortfilm",
+                "剧情": "空||短剧$-Tduanju#喜剧$-Txiju#爱情$-Taiqing#动作$-Tdongzuo#古装$-Tguzhuang#武侠$-Twuxia#悬疑$-Txuanyi#犯罪$-Tfanzui#科幻$-Tkehuan#奇幻$-Tqihuan#家庭$-Tjiating#历史$-Tlishi#传记$-Tzhuanji#都市$-Tdushi||真人秀$-Tzhenrenxiu#脱口秀$-Ttuokouxiu#音乐$-Tyinyue#歌舞$-Tgewu#历史$-Tlishi#美食$-Tmeishi#运动$-Tyundong#冒险$-Tmaoxian#家庭$-Tjiating#旅行$-Tlvxing||剧情$-Tjuqing#喜剧$-Txiju#动作$-Tdongzuo#武侠$-Twuxia#奇幻$-Tqihuan#科幻$-Tkehuan#机甲$-Tjijia#歌舞$-Tgewu#冒险$-Tmaoxian#家庭$-Tjiating#爱情$-Taiqing#古装$-Tguzhuang#悬疑$-Txuanyi#运动$-Tyundong||历史$-Tlishi#传记$-Tzhuaji#战争$-Tzhanzheng#太空$-Ttaikong#动物$-Tdongwu#运动$-Tyundong#音乐$-Tyinyue#影视$-Tyingshi#自然$-Tziran#生活$-Tshenghuo#美食$-Tmeishi||剧情$-Tjuqing#喜剧$-Txiju#爱情$-Taiqing#动作$-Tdongzuo#战争$-Tzhanzheng#科幻$-Tkehuan#奇幻$-Tqihuan#恐怖$-Tkongbu#惊悚$-Tjingsong#悬疑$-Txuanyi#犯罪$-Tfanzui#古装$-Tguzhuang#武侠$-Twuxia#历史$-Tlishi#儿童$-Tertong#动画$-Tdonghua",
+                "地区": "大陆$-Adalu#香港$-Axianggang#台湾$-Ataiwan#韩国$-Ahanguo#日本$-Ariben#美国$-Ameiguo#印度$-Ayindu#泰国$-Ataiguo#俄罗斯$-Aeluosi#英国$-Ayingguo#法国$-Afaguo#德国$-Adeguo#西班牙$-Axibanya#意大利$-Ayidali#加拿大$-Ajianada#澳大利亚$-Aaodaliya#瑞典$-Aruidian#丹麦$-Adanmai#巴西$-Abaxi#新加坡$-Axinjiapo#马来西亚$-Amalaixiya#越南$-Ayuenan#其他$-Aqita||大陆$-Adalu#香港$-Axianggang#台湾$-Ataiwan#韩国$-Ahanguo#日本$-Ariben#美国$-Ameiguo#英国$-Ayingguo#俄罗斯$-Aeluosi#泰国$-Ataiguo#新加坡$-Axinjiapo#马来西亚$-Amalaixiya#越南$-Ayuenan#其他$-Aqita||大陆$-Adalu#香港$-Axianggang#台湾$-Ataiwan#韩国$-Ahanguo#日本$-Ariben#美国$-Ameiguo#英国$-Ayingguo#俄罗斯$-Aeluosi#其他$-Aqita||大陆$-Adalu#香港$-Axianggang#台湾$-Ataiwan#韩国$-Ahanguo#日本$-Ariben#美国$-Ameiguo#英国$-Ayingguo#俄罗斯$-Aeluosi#其他$-Aqita||大陆$-Adalu#香港$-Axianggang#台湾$-Ataiwan#韩国$-Ahanguo#日本$-Ariben#美国$-Ameiguo#英国$-Ayingguo#俄罗斯$-Aeluosi#其他$-Aqita||大陆$-Adalu#香港$-Axianggang#台湾$-Ataiwan#韩国$-Ahanguo#日本$-Ariben#美国$-Ameiguo#英国$-Ayingguo#俄罗斯$-Aeluosi#其他$-Aqita",
+                "年份": "2024$-Y2024#2023$-Y2023#2022$-Y2022#2021$-Y2021#2020$-Y2020#2019$-Y2019#2018$-Y2018#2017$-Y2017#2016$-Y2016#2015$-Y2015#2014$-Y2014#2013$-Y2013#2012$-Y2012#2011$-Y2011#2010$-Y2010||2024$-Y2024#2023$-Y2023#2022$-Y2022#2021$-Y2021#2020$-Y2020#2019$-Y2019#2018$-Y2018#2017$-Y2017#2016$-Y2016#2015$-Y2015#2014$-Y2014#2013$-Y2013#2012$-Y2012#2011$-Y2011#2010$-Y2010||2024$-Y2024#2023$-Y2023#2022$-Y2022#2021$-Y2021#2020$-Y2020#2019$-Y2019#2018$-Y2018#2017$-Y2017#2016$-Y2016#2015$-Y2015#2014$-Y2014#2013$-Y2013#2012$-Y2012#2011$-Y2011#2010$-Y2010||2024$-Y2024#2023$-Y2023#2022$-Y2022#2021$-Y2021#2020$-Y2020#2019$-Y2019#2018$-Y2018#2017$-Y2017#2016$-Y2016#2015$-Y2015#2014$-Y2014#2013$-Y2013#2012$-Y2012#2011$-Y2011#2010$-Y2010||2024$-Y2024#2023$-Y2023#2022$-Y2022#2021$-Y2021#2020$-Y2020#2019$-Y2019#2018$-Y2018#2017$-Y2017#2016$-Y2016#2015$-Y2015#2014$-Y2014#2013$-Y2013#2012$-Y2012#2011$-Y2011#2010$-Y2010||2024$-Y2024#2023$-Y2023#2022$-Y2022#2021$-Y2021#2020$-Y2020#2019$-Y2019#2018$-Y2018#2017$-Y2017#2016$-Y2016#2015$-Y2015#2014$-Y2014#2013$-Y2013#2012$-Y2012#2011$-Y2011#2010$-Y2010",
+                "排序": "最新上映$-Syear#最热$-Shot"
             }
         },
         {
@@ -6953,6 +7058,33 @@
             "timeout": 60,
             "filterable": 1,
             "ext": "./json/freeOK追剧.json"
+        },
+        {
+            "key": "Free影视",
+            "name": "🥬Free☞影视",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "ext": {
+                "图片": "src=\"&&\"",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$45#纪录片$44",
+                "简介": "class=\"text cor3\"&&</div>",
+                "导演": "导演 :</strong>&&</a>",
+                "演员": "演员 :</strong>&&</div>",
+                "线路数组": "class=\"swiper-slide\"&&</a>",
+                "线路标题": "</i>&nbsp;&&</a>",
+                "播放数组": "class=\"box border\"&&</ul>",
+                "播放列表": "<a&&</a>",
+                "播放标题": ">&&</a>",
+                "数组": "<a&&</a>",
+                "标题": "title=\"&&\"",
+                "主页url": "https://freeys.org/",
+                "分类url": "https://freeys.org/menu/{catePg}/{cateId}/0/0/0/0/0"
+            }
         },
         {
             "key": "农民影视",
