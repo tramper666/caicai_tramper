@@ -1,10 +1,16 @@
 {
-    "urls": [
+    "warningText": "菜菜??提示：小撸怡情，大撸伤身
+要撸请带好纸、控制好节奏",
+	"urls": [
         {
             "name": "菜菜本地",
             "url": "https://gitee.com/caicai529180405/caicai/raw/master/cai/ss.json"
         },
         {
+            "name": "乐哥??伦理",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/lilun.json"
+        },
+		{
             "name": "??绿茶①??",
             "url": "https://pan.css.lc/api/v3/file/get/90002/%E9%A3%9E%E6%9C%BA%E4%BB%9323.txt?sign=TGawyoffB7Ky5LLeND-J0-FiMqcsc1YD5n4QzyCdywY%3D%3A0"
         },
