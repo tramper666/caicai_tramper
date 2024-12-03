@@ -26,46 +26,6 @@
             "jar": "http://42.193.148.160:4567/spring.jar"
         },
         {
-            "key": "csp_appys_影盒",
-            "name": "影探4K",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cmsytv.lyyytv.cn/api.php/app/",
-            "playurl": "http://1.94.22.110:1122/myyt.php?url="
-        },
-        {
-            "key": "画质5",
-            "name": "画质5",
-            "type": 3,
-            "api": "csp_XYQHikerAL",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://x0pb81dz66hu.ngtest.guyubao.com/list/json/4KHDR.json",
-            "jar": "https://x0pb81dz66hu.ngtest.guyubao.com/list/jar/XYQHikerAL.jar"
-        },
-        {
-            "key": "君1君",
-            "name": "👑鸭鸭在线4k-A",
-            "playerType": 2,
-            "type": 3,
-            "changeable": 0,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./json/影腾.js",
-            "ext": {
-                "host": "http://cmsytv.lyyytv.cn/api.php/app/",
-                "*": [
-                    "http://1.94.22.110:1122/myyt.php?url=",
-                    "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
-                ]
-            }
-        },
-        {
             "key": "csp_DiDuan",
             "name": "📛TH┃低端",
             "type": 3,
