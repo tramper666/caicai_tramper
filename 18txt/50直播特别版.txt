@@ -1,0 +1,559 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="369203" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBpan_duo_la_wan_meiHD.png" group-title="特别频道",潘多拉玩美HD
+http://276868.cloud/beec6a5b65accd0d5d126c4e464d26c1/a342fa9e5e11747f731a4832e31e0e7d/b74d1eed9ea3ca8d661091ffa5f1fd54/index.m3u8
+http://jaz9.my.to:2390/udp/230.1.2.39:11111
+http://jaz9.my.to:2390/udp/230.1.2.219:11111
+http://276868.cloud/948f249fe4c424ecf9d95592cb749673/c61842ddc9b487c10e42e241866db579/b74d1eed9ea3ca8d661091ffa5f1fd54/index.m3u8
+http://ali.hlspull.yximgs.com/live/6ef449b6ef7b46a235a0e83f5f791bed.flv
+https://hlspull.iptv8k.top/iptv/ubtv.php?id=410
+http://z3.ubtvfans.com/live/rx3/410/415bdc67f1b4040b4983963911f2485b/index.m3u8
+http://276868.cloud/0985d3e112b3951808a7860cd1e39e2b/8ae72df77b326bd775669e8a56545815/b74d1eed9ea3ca8d661091ffa5f1fd54/index.m3u8
+http://18.svi-studio.com:8880/live/271871095922/006886711863/3.m3u8
+http://276868.cloud/e5e114494b35466be796f596be2322a9/f556ffea0808471d33eed6be377c53f6/b74d1eed9ea3ca8d661091ffa5f1fd54/index.m3u8
+http://z3.ubtvfans.com/live/rx3/410/415bdc67f1b4040b4983963911f2485b/index.m3u8 
+https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
+#EXTINF:-1 tvg-id="369164" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBpan_duo_la_fen_hongHD.png" group-title="特别频道",潘多拉粉红HD
+http://276868.cloud/e04a56142536506819b1e775b9456d0a/a342fa9e5e11747f731a4832e31e0e7d/d1512c1d1dda0ddd27bdf6b8ac9bc835/index.m3u8
+https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/03/PcugM-q-VHk_w?response-content-disposition=inline%3Bfilename%3DPDL-1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1730995199&Signature=rZqRH8k%2BFHjC4tbFyOWlX3gch7g%3D
+http://276868.cloud/d7ea17db74d0b65ef893c1bc99209396/26970cdc24e909f0fb7022096d6e30cf/cc21a4061bb958bdfcd410e60e0f1f8c/index.m3u8
+https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/03/PcugM-q-VHk_w?response-content-disposition=inline%3Bfilename%3DPDL-1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1725811199&Signature=QG9JmpjYO%2FU5M916LER2RFYM2uo%3D
+#EXTINF:-1 tvg-id="369159" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBao_shi_xiang_jiao.png" group-title="特别频道",奥视香蕉台HD
+http://276868.cloud/ecc014a79434755f42850add23f2cafb/a342fa9e5e11747f731a4832e31e0e7d/dd18c7572f6fa68799ed27685fafa1da/index.m3u8
+http://jaz9.my.to:2390/udp/224.1.4.205:11111
+http://jaz9.my.to:2390/udp/230.1.2.94:11111
+http://ali.hlspull.yximgs.com/live/ad9e9ee1729847c3a79f9fed43a1a942.flv
+http://18.svi-studio.com:8880/live/271871095922/006886711863/4.m3u8
+http://276868.cloud/44e579ff0a9732e545db53339d8617a5/8ae72df77b326bd775669e8a56545815/7f439a8736720d09aac80f49e92d49e8/index.m3u8
+http://z3.ubtvfans.com/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8 
+http://276868.cloud/fc53829050ef94dc89402e6c0b585a20/f556ffea0808471d33eed6be377c53f6/7f439a8736720d09aac80f49e92d49e8/index.m3u8
+http://z3.ubtvfans.com/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
+https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
+#EXTINF:-1 tvg-id="369158" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBao_shi_jing_yan.png" group-title="特别频道",奥视惊艳台HD
+http://276868.cloud/a94216ae034e67a8780df7f07e513222/a342fa9e5e11747f731a4832e31e0e7d/a6255717ca7d3ba837efd2ed2b130f44/index.m3u8
+http://jaz9.my.to:2390/udp/230.1.2.27:11111
+http://jaz9.my.to:2390/udp/224.1.4.204:11111
+http://ali.hlspull.yximgs.com/live/fb4db2945421b38760e48a91cfda11ad.flv
+http://18.svi-studio.com:8880/live/271871095922/006886711863/01.m3u8
+http://276868.cloud/3b0fb1fbe8db0602a1ad4d60d2308d51/8ae72df77b326bd775669e8a56545815/f37e4f3f539e237cd9f8d943c7d0140b/index.m3u8
+http://z3.ubtvfans.com/live/rx3/2916/c6b2bbeb82e1e0b752e980e4fb91cd87/index.m3u8
+http://z02.ubtvfans.com/live/rx4/2931/7c12850fabf63e33a259f6ec35b0e8d1/index.m3u8
+http://276868.cloud/0d0c019fd89c687a7b425cca90027b80/f556ffea0808471d33eed6be377c53f6/f37e4f3f539e237cd9f8d943c7d0140b/index.m3u8
+http://z3.ubtvfans.com/live/rx4/2931/7c12850fabf63e33a259f6ec35b0e8d1/index.m3u8
+https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
+#EXTINF:-1 tvg-id="368939" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBsong1_tai.png" group-title="特别频道",松视1台HD
+http://276868.cloud/33899f168487d4ecf86768be40853b71/a342fa9e5e11747f731a4832e31e0e7d/c5f2d006bb9ccf4951acc5cc4b4b8b39/index.m3u8
+http://jaz9.my.to:2390/udp/230.1.2.142:11111
+http://jaz9.my.to:2390/udp/224.1.4.68:11111
+http://276868.cloud/164751da7e455e5d156c6221bef28a92/c61842ddc9b487c10e42e241866db579/c5f2d006bb9ccf4951acc5cc4b4b8b39/index.m3u8
+http://ali.hlspull.yximgs.com/live/d7bdd4619bf59f01cac3e7d7c24f1649.flv
+http://18.svi-studio.com:8880/live/271871095922/006886711863/5.m3u8
+http://z3.ubtvfans.com/live/rx3/402/733039a795cd903623dd9c87385ee32b/index.m3u8 
+http://276868.cloud/d37b4dbe051bc580e3c13c69556457b7/8ae72df77b326bd775669e8a56545815/c5f2d006bb9ccf4951acc5cc4b4b8b39/index.m3u8
+http://276868.cloud/55c6e6408ca631eeec221fd476d1fb5b/f556ffea0808471d33eed6be377c53f6/c5f2d006bb9ccf4951acc5cc4b4b8b39/index.m3u8
+https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
+#EXTINF:-1 tvg-id="368938" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBsong2_tai.png" group-title="特别频道",松视2台HD
+http://276868.cloud/e7e5fccaa92d69a7553c3890c3519a14/a342fa9e5e11747f731a4832e31e0e7d/79624e0ad988a352ad8d5a819dd37a46/index.m3u8
+http://jaz9.my.to:2390/udp/224.1.4.149:11111
+http://jaz9.my.to:2390/udp/224.1.4.69:11111
+http://276868.cloud/38f8e39b9609782f23452c8b5a23a168/c61842ddc9b487c10e42e241866db579/79624e0ad988a352ad8d5a819dd37a46/index.m3u8
+http://ali.hlspull.yximgs.com/live/c9606f074c1c66acc1d4b74e5fb593a9.flv
+http://18.svi-studio.com:8880/live/271871095922/006886711863/6.m3u8
+http://z3.ubtvfans.com/live/rx3/403/9b7b6ffe613ab14cdcc993d8c28aa042/index.m3u8
+http://276868.cloud/14d35a5d34dbe5466ff115de8104d128/8ae72df77b326bd775669e8a56545815/79624e0ad988a352ad8d5a819dd37a46/index.m3u8
+http://276868.cloud/24dfcf9a11cb79ef85f0ba614efce171/f556ffea0808471d33eed6be377c53f6/79624e0ad988a352ad8d5a819dd37a46/index.m3u8
+https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
+#EXTINF:-1 tvg-id="369161" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBsong3_tai.png" group-title="特别频道",松视3台HD
+http://z3.ubtvfans.com/live/rx3/404/92fba28e982d7b13b6b47247c5a40674/index.m3u8
+http://jaz9.my.to:2390/udp/224.1.4.253:11111
+http://jaz9.my.to:2390/udp/224.1.4.70:11111
+http://z3.ubtvfans.com/live/rx3/404/abf303f6fc9feb74c1790675d23a5f32/index.m3u8
+https://hlspull.iptv8k.top/iptv/ubtv.php?id=404
+http://z88.ubtvfans.com/live/rx3/404/e8abdd09430e872612cf5d7dd379deeb/index.m3u8
+http://ali.hlspull.yximgs.com/live/6afc581915aa45f701156edf25e6b4cd.flv
+https://hlspull.iptv8k.top/iptv/ubtv.php?id=404
+http://z88.ubtvfans.com/live/rx3/404/48745975c4b72ccc24ebd4d91afd641a/index.m3u8
+http://276868.cloud/dd5728a34ef1d823c69242fa5b6b3335/8ae72df77b326bd775669e8a56545815/14d5f0df3bfd242c341b26139b1628b6/index.m3u8
+http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
+http://18.svi-studio.com:80/live/176619383282/537544338952/20205.m3u8
+http://z3.ubtvfans.com/live/rx3/404/48745975c4b72ccc24ebd4d91afd641a/index.m3u8
+#EXTINF:-1 tvg-id="369162" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBsong4_tai.png" group-title="特别频道",松视4台HD
+https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202410/06/akw6b-3pn5Rcw?response-content-disposition=inline%3Bfilename%3DS4-3.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1732118399&Signature=P6mI8Nv7Gvdvg0UaQ9bIvFKk3Rs%3D
+https://hls.iptv8k.top/iptv.m3u8?id=ss4t&time=67394472&token=95f4ad7f32a0a876c86435f6609de500&uid=50101705
+http://276868.cloud/dc59b8f269637bf4a59b514549a7a75f/26970cdc24e909f0fb7022096d6e30cf/1e5e6113604ce006f14fd0410d670c25/index.m3u8
+https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202410/15/Rm9hD-5oQEuhA?response-content-disposition=inline%3Bfilename%3DS4-1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1730995199&Signature=5qqevZLl4XivxzXu2%2BILTz%2B7Ryw%3D
+http://276868.cloud/07fef894ca0ae0e0cf131a0373be74d3/26970cdc24e909f0fb7022096d6e30cf/446379fbdddf6c54a5620b6e442afd73/index.m3u8
+https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/07/tkrng-rqVcd0Q?response-content-disposition=inline%3Bfilename%3DS4-2.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1725811199&Signature=t%2BlWRSFYvVqhOTMqpeb9eFFIKTU%3D
+http://276868.cloud/d7a262442786a9a73439a0270d2ea1af/8ae72df77b326bd775669e8a56545815/289aa77fa3ae8d89ea27cebdf87e8fc3/index.m3u8
+http://276868.cloud/622e37073bd0c17daf2a38e45dfc99f4/9acddba8ce217188a6c8996969f0b42f/446379fbdddf6c54a5620b6e442afd73/index.m3u8
+http://276868.cloud/ee74481d633b7d57e86164e076d7cdad/f455fb98e2ed6866f084f14dbee90561/446379fbdddf6c54a5620b6e442afd73/index.m3u8
+#EXTINF:-1 tvg-id="0034cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBsong5.png" group-title="特别频道",松视5台HD
+http://276868.cloud/7584899480166fb05d86da7b61a0940e/a342fa9e5e11747f731a4832e31e0e7d/57c97d9bd28f87f9ee79891f2496dc99/index.m3u8
+#EXTINF:-1 tvg-id="368937" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBcai_hong_pin_dao.png"group-title="特别频道",彩虹頻道
+http://276868.cloud/57b7c041286055ef3facb09ea2849486/a342fa9e5e11747f731a4832e31e0e7d/ec5cb3771e4e2d2e1ff1c96838e0c64c/index.m3u8
+http://276868.cloud/c90ee083dfb621fafab504a1a5d80916/26970cdc24e909f0fb7022096d6e30cf/57c97d9bd28f87f9ee79891f2496dc99/index.m3u8
+rtmp://118.163.221.79:1936/live/Rainbow
+#EXTINF:-1 tvg-id="368935" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBcai_hong_dian_ying.png" group-title="特别频道",彩虹电影台
+http://ali.hlspull.yximgs.com/live/27f6f1e4159f92cc3813793adccb3bcb.flv
+http://jaz9.my.to:2390/udp/224.1.4.164:11111
+http://jaz9.my.to:2390/udp/224.1.4.64:11111
+http://z4.ubtvfans.com/live/rx4/2934/9bcb03b9c2b87b4a63f89ddb2cd311bf/index.m3u8
+http://276868.cloud/c3656bf31f0396e2de616735182ee9a1/8ae72df77b326bd775669e8a56545815/ce83843fd02fc345aedfa60bec1b6ba9/index.m3u8
+http://276868.cloud/3e2cfa3c809ffbcefebb9df18a53094b/f556ffea0808471d33eed6be377c53f6/ce83843fd02fc345aedfa60bec1b6ba9/index.m3u8
+http://z4.ubtvfans.com/live/rx4/2934/9bcb03b9c2b87b4a63f89ddb2cd311bf/index.m3u8
+http://220.134.74.149:6868/udp/224.1.4.164:11111
+http://220.134.74.149:6868/udp/224.1.4.64:11111
+#EXTINF:-1 tvg-id="368936" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBcai_honge_tai.png" group-title="特别频道",彩虹e台
+http://276868.cloud/304eb151795fdb6f46fb2e7131899aa4/a342fa9e5e11747f731a4832e31e0e7d/8f9bc18b7f6567180e5f3444818aaa9c/index.m3u8
+http://jaz9.my.to:2390/udp/224.1.4.141:11111
+http://jaz9.my.to:2390/udp/224.1.4.63:11111
+http://276868.cloud/383220103e6a4de02eff4c40165b1438/c61842ddc9b487c10e42e241866db579/8f9bc18b7f6567180e5f3444818aaa9c/index.m3u8
+http://z88.ubtvfans.com/live/rx3/406/ea94406cd10b0c85b1b382489a8a2d0d/index.m3u8
+https://hlspull.iptv8k.top/iptv/ubtv.php?id=406
+http://z3.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8 
+http://276868.cloud/cfe9345b6a0513277b451318291f5032/8ae72df77b326bd775669e8a56545815/8f9bc18b7f6567180e5f3444818aaa9c/index.m3u8
+http://276868.cloud/d879b4a42c8b568fb44a1edf8b25bf9a/f556ffea0808471d33eed6be377c53f6/8f9bc18b7f6567180e5f3444818aaa9c/index.m3u8
+http://z3.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
+#EXTINF:-1 tvg-id="368934" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBcai_hongK_tai.png" group-title="特别频道",彩虹K台
+http://jaz9.my.to:2390/udp/224.1.4.175:11111
+http://jaz9.my.to:2390/udp/224.1.4.65:11111
+http://276868.cloud/21ffd20a46d1910e9a84cf4236bdde88/26970cdc24e909f0fb7022096d6e30cf/27932bda3dad826ef8d839839b8fad24/index.m3u8=
+http://276868.cloud/ce4a311476f852dd98f429ff05ba5da9/c61842ddc9b487c10e42e241866db579/27932bda3dad826ef8d839839b8fad24/index.m3u8
+http://z88.ubtvfans.com/live/rx3/415/8d371abe1db010ba2c5b68c620d5e2a8/index.m3u8
+https://hlspull.iptv8k.top/iptv/ubtv.php?id=415
+https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202407/17/cBZe8-ncTtIVg?response-content-disposition=inline%3Bfilename%3Dch-k1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1725811199&Signature=wlkxwHmee32Os%2FDCiWLO6u6Tc2k%3D
+http://276868.cloud/c41fccd8a841574c238e62ad0d261156/8ae72df77b326bd775669e8a56545815/27932bda3dad826ef8d839839b8fad24/index.m3u8
+http://z3.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
+http://276868.cloud/15f7ce4d7273562cce2b8d44d9c020b6/f556ffea0808471d33eed6be377c53f6/27932bda3dad826ef8d839839b8fad24/index.m3u8
+http://z3.ubtvfans.com/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
+#EXTINF:-1 tvg-id="369166" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBcai_hong_re_men_xin_shi_ye.png" group-title="特别频道",彩虹热门新视野
+http://276868.cloud/b2701e380a11e98984413a1aca87120a/a342fa9e5e11747f731a4832e31e0e7d/45b8831b294a1b4dbb21b91a8e5ad89a/index.m3u8
+http://z4.ubtvfans.com/live/rx4/2933/60497d63c7532401bb5795a8e2a9adaa/index.m3u8
+#EXTINF:-1 tvg-id="369167" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBhuan_le.png"group-title="特别频道",欢乐频道
+http://jaz9.my.to:2390/udp/224.1.4.186:11111
+http://jaz9.my.to:2390/udp/224.1.4.72:11111
+http://276868.cloud/46cb8a3c18ea5e1017543d2b49214dae/8ae72df77b326bd775669e8a56545815/814160f226d2978e6f62a4271fc03000/index.m3u8
+#EXTINF:-1 tvg-id="369228" catchup-days="3" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBre_huo.png"group-title="特别频道",热火频道
+http://276868.cloud/b9b937de9424c9c8aa5abba4956cb971/a342fa9e5e11747f731a4832e31e0e7d/795b980acf178c28b340245c217ed848/index.m3u8
+https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202410/16/pWrZs-5qvtP9Q?response-content-disposition=inline%3Bfilename%3Dbandicam%25202024-08-20%252014-00-06-656.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1732118399&Signature=iDk8KVlj3AekPP1qV6nD8GMz4FQ%3D
+http://276868.cloud/8839b88265c712bd16ac286bd61810c7/26970cdc24e909f0fb7022096d6e30cf/795b980acf178c28b340245c217ed848/index.m3u8
+https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/24/cAad5-vABeoYQ?response-content-disposition=inline%3Bfilename%3DHOT-1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1730995199&Signature=7FPjSWLDby3W9yMktOWw7TT3NkU%3D
+https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/28/Qg3wr-wAJXnQg?response-content-disposition=inline%3Bfilename%3Dbandicam%25202024-08-20%252014-00-06-656.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1725811199&Signature=Tmsb9ki4C5WKuMMc5SQBpa%2BaZfQ%3D
+#EXTINF:-1 tvg-id="369166" catchup-days="3" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBwan_jia.png"group-title="特别频道",玩家频道
+http://276868.cloud/29215331c8ac206fd4c2c27b1572324a/a342fa9e5e11747f731a4832e31e0e7d/a3f6b7e3e4f163b355c280020920de17/index.m3u8
+https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/24/PCcEv-vAB4mtQ?response-content-disposition=inline%3Bfilename%3Dh-1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1732118399&Signature=kNoWQoG1p0P70XFTZ4KJzyZ3ocM%3D
+http://276868.cloud/b866bfac483078a62c6c9703edd4d89e/26970cdc24e909f0fb7022096d6e30cf/a3f6b7e3e4f163b355c280020920de17/index.m3u8
+https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/24/PCcEv-vAB4mtQ?response-content-disposition=inline%3Bfilename%3Dh-1.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1730995199&Signature=VJUCX61jeeTOZD823c7O%2FQ87o2Y%3D
+https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/29/m5dej-wM1NQuQ?response-content-disposition=inline%3Bfilename%3Dbandicam%25202024-08-20%252016-04-56-464.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1725811199&Signature=mThWQ7KJSNOykKWA8cvuBQ5BYu8%3D
+#EXTINF:-1 tvg-id="369157" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBji_xian_dian_ying.png" group-title="特别频道",极限电影台
+http://jaz9.my.to:2390/udp/230.1.2.152:11111
+http://jaz9.my.to:2390/udp/230.1.2.32:11111
+http://276868.cloud/6b5aae8a34e16a13b52feacb7c526061/a342fa9e5e11747f731a4832e31e0e7d/ee0f3db9c30a9bf5e2d6ef86425d0007/index.m3u8
+https://hls.iptv8k.top/iptv.m3u8?id=jxdyt&time=6739447d&token=ca941cd3f41e428909a7c741f5f392de&uid=50101705
+http://276868.cloud/f56a914b2cf096935c200c81d98a1b74/26970cdc24e909f0fb7022096d6e30cf/ee0f3db9c30a9bf5e2d6ef86425d0007/index.m3u8
+http://z88.ubtvfans.com/live/rx3/2909/164b8735a2a0243396aa17baccd2b100/index.m3u8
+https://hlspull.iptv8k.top/iptv/ubtv.php?id=405
+http://276868.cloud/7855cfe37eb9004fda8d209eb952f5ec/8ae72df77b326bd775669e8a56545815/ee0f3db9c30a9bf5e2d6ef86425d0007/index.m3u8
+http://276868.cloud/6935071a274b081970af9d40413c65e0/f556ffea0808471d33eed6be377c53f6/ee0f3db9c30a9bf5e2d6ef86425d0007/index.m3u8
+http://220.134.74.149:6868/udp/230.1.2.152:11111
+http://220.134.74.149:6868/udp/230.1.2.32:11111
+http://61.224.69.212:9088/udp/230.1.2.152:11111
+http://61.224.69.212:9088/udp/230.1.2.32:11111
+http://z3.ubtvfans.com/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",花花公子Playboy tv
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/527/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",花花公子Playboy Plus
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6242/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",花花公子Playboy LA
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6280/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",花花公子PLAYBOY TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12135/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Evolved Fights(搏击成人)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6200/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",菊花TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/147/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",菊花TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/2057/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",菊花TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9344/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Eromania 4K
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/10049/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",X 4K Extasy PLAYINUM
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/5014/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",XY Max 
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6286/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",XY max
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12114/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",XY Mix
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6287/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",XY Plus
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6288/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",XY Plus 
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12118/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",erotic
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12146/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",erotic 2
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12147/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",erotic 3
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12148/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",erotic 3
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6240/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",erotic 4
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6241/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",erotic 4
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12149/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",erotic 5
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12150/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",erotic 6
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12151/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",erotic 7
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12152/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",erotic 8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12153/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",erotic
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6289/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",erotic 2
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6290/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",erotic 3
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6291/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",erotic 4
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6292/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",erotic 6
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6293/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",erotic 7
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6294/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",erotic 8
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6295/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",PRIVATE HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/243/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",DORCEL TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/245/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",DORCEL TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9064/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",DORCEL XXX TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12131/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",DORCEL XXX TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6232/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",HUSTLER HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/244/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",HUSTLER HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9065/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Blue Hustler
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/1064/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",RED LIGHT HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/242/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",RED LIGHT HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12117/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Brazzers HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6182/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",BRAZZERS TV europe
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/910/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",BRAZZERS TV europe
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12113/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",BRAZZERS
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6181/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",BRAZZERS
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12128/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",PENTHOUSE Gold
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/5011/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",PENTHOUSE REALITY TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/5013/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",PENTHOUSE REALITY TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/5012/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",DDF Network
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6194/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",DDF Network2
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6193/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",DDF Network3
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12108/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",DDF Network4
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6217/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Reality Kings1
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6247/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Reality Kings2
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6248/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Reality Kings3
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6249/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Reality Kings4
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6266/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Angels
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6198/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Angels trans tv
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6169/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Angels trans tv
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6170/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Angels trans tv
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6259/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Evil Angel
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6199/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",HOT
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6275/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",HOT XXL
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6276/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Hot Pleasure
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6277/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Sexy Hot
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6282/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Hot Guys Fuck
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6223/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Alba XXX HD 1
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12105/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Alba XXX HD 1
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12106/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Alba XXX HD 1
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12204/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Alba XXX HD 2
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12194/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",VERAPORN GROUP SEX
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12141/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",VERAPORN GROUP SEX 2
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12142/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Red XXX
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6281/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Red Lips
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6271/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Vivid Red HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/2162/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Extasy HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6201/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Vivid TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6264/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Venus HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12133/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Venus HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6284/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Beate Uhse
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12163/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",LEO TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6272/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",LEO TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12123/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",EXXXOTICA HD 
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/9346/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",EXXXOTICA HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/2397/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",ERO XXX HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/5015/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",DUSK
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12129/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",EXTASY HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/11051/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",XXX Love's Berry HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/14140/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Yosso TV Sexy
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/14176/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Liberty Эротика FHD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/16069/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",cento x cento
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6184/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Extreme
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6273/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",XMO X-RATED MEN ONLY(男男)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6285/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Erox HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6296/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",SuperOne HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6298/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",ОХ-АХ HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/11068/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",PASSIE xxx TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12136/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Babes TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/2161/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Barely legal TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/871/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Adult Time
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6166/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Cherry Pimps
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6185/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",DP Digital Playground
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6196/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Hitzefrei!
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6220/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Lethal Hardcore pass
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6229/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",MYLF X SINFUL XXX
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6236/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",TushyRAW
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6262/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Visit-X TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6263/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Wicked
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6268/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Balkan Erotic
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6270/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Kin18 XXX
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/11052/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Кино 18+ HD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/18075/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Кино 18+ International
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/18076/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Erotic Spice
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12110/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",French Lover
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12124/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Meiden Van Holland
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12125/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Meiden Van Holland
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12134/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Deep Throat Sirens
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12138/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Deep Lush
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12139/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Family Swap xxx
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12155/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Bratty Sis
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12161/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Barely Legal TV
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12165/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Anal all the Time
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12181/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Amateur Boxxx
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12191/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",BCU Charm HD(电影)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/18053/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美xxx频道",Kinoshka Adult HD(电影)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/18060/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Japan HDV.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6225/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",SINematica.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6255/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",BRAZZERS.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6222/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",汝Banana Fever.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12168/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",naughty America.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6237/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Analized.COM(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6168/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",SEXART.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6165/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Babes.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6172/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Bang Bros.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6173/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Bang.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6174/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Blacked.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6178/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Club 17.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6186/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Cum Louder.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6189/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Cum4k.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6190/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",BEZZERS.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6192/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Dorcel Club.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6197/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Exotic 4k.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12107/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Fake Taxi.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6202/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",FemJoy.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6212/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Hard X.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6218/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Holed.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6221/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Lesbea.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6227/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Little Asians.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6230/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",MetArt.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6233/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Bang Bros2.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6235/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Nubiles.NET(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6238/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",TINSEKS.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6239/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Private.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6245/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Public Agent.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6246/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Sex With Muslims.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6252/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",SexArt.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6253/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Tushy.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6261/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Tiny4K.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6258/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Vixen.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6265/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Erotica X.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12109/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",21 SEXTURY.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12111/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",pornbox PURE BABES.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12112/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Dane Jones.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12143/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Dancing Bear.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12144/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Dark X.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12140/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",DEVILSFILM.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12137/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",naughty America.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12122/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",adult speciaIBOX.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12119/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",adult speciaIBOX.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12116/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Dirty Flix.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12130/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Dad Crush.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12154/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Family Strokes.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12156/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Cum4k.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12157/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Cum Perfection.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12158/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",MetArt.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12160/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Brand New Amateurs.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12162/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Bang BROS3.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12166/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Bang BROS4.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12167/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",BBC Pie.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12164/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",21naturals.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12169/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",TUSHY.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12170/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",SL HOT HD FiIF.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12173/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Bang BROS5.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12178/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",21naturY.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12183/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Anal Only.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12184/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",HOTWIFEXXX.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12187/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",TUSHY.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12188/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Anal Mom.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12189/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Anal 4K.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12190/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",WOODMAN CASTINGX.COM(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/20089/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",GONZO.COM(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/20090/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",21 Sextury.COM(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12205/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",All Anal.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12192/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Alex Legend.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12193/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",Prokop TV XXX.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/19401/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",X4.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12120/index.m3u8
+#EXTINF:-1 tvg-id="0025cr" tvg-logo="https://dfq.oss-cn-quanzhou.kz.cc/TB/TBou_mei_wu.png" group-title="欧美网站频道",MYLF.com(网)
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6216/index.m3u8
