@@ -116,6 +116,45 @@
             "type": 3
         },
         {
+            "key": "241222皮皮虾影视app",
+            "name": "🦞皮皮虾┃拾光",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://38.55.250.149:1314/api.php/app/"
+        },
+        {
+            "key": "241211華為8",
+            "name": "hw8✨蓝光秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playUrl": "https://player.hw8.lol/player?url=",
+            "ext": "./json/huawei8.json"
+        },
+        {
+            "key": "嘟嘟电影",
+            "name": "😙嘟嘟┃电影",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "简介": "请不要相信任何广告！！！祝您观影愉快！菜菜🥬为您介绍剧情👉-+简介：</em>&&</li>",
+                "线路二次截取": "<ul class=\"hl-from-list&&</ul>",
+                "线路数组": "<li&&</li>",
+                "线路标题": "\">&&</span>",
+                "播放数组": "<ul class=\"hl-plays-list&&</ul>",
+                "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
+                "搜索url": "http://www.dudu35.com/index.php/vod/search/wd/{wd}.html",
+                "分类url": "http://www.dudu35.com/index.php/vod/show/area/{area}/id/{cateId}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "电影&电视剧&综艺&动漫&纪录片",
+                "分类值": "1&2&3&4&5"
+            }
+        },
+        {
             "key": "gzys",
             "name": "瓜子影视",
             "type": 3,
@@ -11499,7 +11538,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "./lib/jsmlive.txt",
+            "url": "https://live.iptv365.org/live.txt",
             "playerType": 1,
             "ua": "okhttp/3.12.13",
             "epg": "https://epg.imxd.top/?ch={name}&date={date}",
@@ -11872,6 +11911,17 @@
                 "header": {
                     "User-Agent": "okhttp/4.9.1"
                 }
+            }
+        },
+        {
+            "name": "皮皮虾",
+            "type": "1",
+            "url": "http://45.207.215.101:5423/index.php?url=",
+            "ext": {
+                "flag": [
+                    "PPXLG",
+                    "皮皮虾4K"
+                ]
             }
         },
         {
