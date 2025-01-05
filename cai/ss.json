@@ -6,7 +6,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "./lib/sslive.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lc529180405/caicai/refs/heads/main/18txt/sslive.txt",
             "playerType": 1,
             "ua": "okhttp/3.12.13",
             "epg": "https://epg.imxd.top/?ch={name}&date={date}",
@@ -15,7 +15,7 @@
         {
             "name": "live-1",
             "type": 0,
-            "url": "./lib/sslive-1.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lc529180405/caicai/refs/heads/main/18txt/sslive-1.txt",
             "playerType": 1,
             "ua": "okhttp/3.12.13",
             "epg": "https://epg.imxd.top/?ch={name}&date={date}",
@@ -24,7 +24,7 @@
         {
             "name": "18+1",
             "type": 0,
-            "url": "./lib/18+1.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lc529180405/caicai/refs/heads/main/18txt/18+1.txt",
             "playerType": 1,
             "ua": "okhttp/3.12.13",
             "epg": "https://epg.imxd.top/?ch={name}&date={date}",
@@ -33,7 +33,7 @@
         {
             "name": "18+2",
             "type": 0,
-            "url": "./lib/18+2.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lc529180405/caicai/refs/heads/main/18txt/18+2.txt",
             "playerType": 1,
             "ua": "okhttp/3.12.13",
             "epg": "https://epg.imxd.top/?ch={name}&date={date}",
@@ -42,7 +42,7 @@
         {
             "name": "18+3",
             "type": 0,
-            "url": "./lib/18+3.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lc529180405/caicai/refs/heads/main/18txt/18+3.txt",
             "playerType": 1,
             "ua": "okhttp/3.12.13",
             "epg": "https://epg.imxd.top/?ch={name}&date={date}",
