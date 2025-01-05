@@ -1,3 +1,4 @@
+
 muban.vfed.二级.title = 'h1&&Text;.fed-col-md3--span:eq(0)&&Text';
 muban.vfed.二级.desc = '.fed-col-md3:eq(3)&&Text;;;.fed-col-md6:eq(0)&&Text;.fed-col-md6--span:eq(1)&&Text';
 var rule = {
