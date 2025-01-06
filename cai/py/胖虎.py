@@ -32,8 +32,8 @@ class Spider(BaseSpider):  # 元类 默认的元类 type
     jsp = jsoup(host)
 
     def getDependence(self):
-        # return ['base_spider']
-        return []
+        return ['base_spider']
+        # return []
 
     def getName(self):
         return "胖虎"
@@ -125,6 +125,7 @@ class Spider(BaseSpider):  # 元类 默认的元类 type
 
     def homeVideoContent(self):
         result = {"list": self.home_data}
+        # result = self.module.homeVideoContent()
         return result
 
     def categoryContent(self, tid, pg, filter, extend):
@@ -194,8 +195,9 @@ class Spider(BaseSpider):  # 元类 默认的元类 type
         if "m3u8" not in url and "mp4" not in url:
             try:
                 body = edu(url)
+                data = self.body2data(body)
                 data = self.post("{0}/api.php/getappapi.index/vodParse".format(self.host), headers=self.headers,
-                                 data=body).text
+                                 data=data).text
                 data1 = json.loads(data)["data"]
                 data2 = json.loads(self.aes("decrypt", data1))["json"]
                 url = json.loads(data2)["url"]
@@ -230,14 +232,19 @@ class Spider(BaseSpider):  # 元类 默认的元类 type
             return pt.decode("utf-8")
 
 
-if __name__ == '__main__':
-    from t4.core.loader import t4_spider_init
-
+def main():
+    from base.loader import t3_spider_init
+    from base.hiker import log
     spider = Spider()
-    t4_spider_init(spider)
-    print(spider.homeContent(True))
-    print(spider.homeVideoContent())
-    print(spider.categoryContent('21', 1, True, {}))
-    print(spider.detailContent(['144311']))
-    print(spider.playerContent('暴风', 'https://c1.7bbffvip.com/video/jiehunbabendana/第01集/index.m3u8', None))
-    print(spider.searchContent('朋友'))
+    t3_spider_init(spider)
+
+    log(spider.homeContent(True))
+    log(spider.homeVideoContent())
+    log(spider.categoryContent('21', 1, True, {}))
+    log(spider.detailContent(['144311']))
+    log(spider.playerContent('暴风', 'https://c1.7bbffvip.com/video/jiehunbabendana/第01集/index.m3u8', None))
+    log(spider.searchContent('朋友'))
+
+
+if __name__ == '__main__':
+    main()

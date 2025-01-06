@@ -8,14 +8,14 @@ from urllib.parse import quote
 import requests
 from Crypto.Hash import MD5
 sys.path.append("..")
-from base.spider import Spider
+from base.spider import BaseSpider
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 from base64 import b64decode
 import json
 
 
-class Spider(Spider):
+class Spider(BaseSpider):
         
     def getName(self):
         return "mq"
