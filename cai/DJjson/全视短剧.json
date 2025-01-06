@@ -1,0 +1,20 @@
+{
+    "首页": "短剧",
+    "副标题": "✨集多推荐✨",
+    "免嗅": "1",
+    "简介": "💕集多友情提示:长时间看片，对眼睛有害噢!💕+剧情介绍：&&</p",
+    "线路二次截取": "<div class=\"play\"&&</div>",
+    "线路数组": "<span&&/span>",
+    "线路标题": "✨集多专享✨+>&&<",
+    "播放数组": "<ul>&&</ul>",
+    "播放二次截取": "<div class=\"playlist\"&&</div>",
+    "搜索模式": "1",
+    "搜索数组": "<div class=\"tu\"&&</a",
+    "搜索图片": "src=\"&&\"",
+    "搜索标题": "title=\"&&\"",
+    "搜索副标题": "✨集多推荐✨",
+    "搜索链接": "href=\"&&\"",
+    "搜索url": "https://www.quanshipintv.com/vodsearch/-------------.html?wd={wd}&submit=",
+    "分类": "短剧$duanju",
+    "分类url": "https://www.quanshipintv.com/s/{cateId}/page/{catePg}.html[https://www.quanshipintv.com/t/{cateId}.html]"
+}

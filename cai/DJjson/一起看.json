@@ -1,0 +1,12 @@
+{
+                "首页": "短剧",
+                "副标题": "✨集多推荐✨",
+                "线路数组": "#playlist*\">&&</a>",
+                "线路标题": "✨集多专享✨+<span>&&</span>+线路",
+                "播放数组": "<ul class=\"playlistlink-1 list-1176 clearfix \">&&</ul>",
+                "播放列表": "<li&&</li>",
+                "播放标题": "title=\"&&\"",
+                "播放链接": "href=\"&&\"",
+                "分类url": "https://www.vsyy.cc/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=[]",
+                "分类": "短剧$30"
+            }

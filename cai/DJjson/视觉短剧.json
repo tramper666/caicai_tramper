@@ -1,0 +1,22 @@
+{
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "主页url": "https://www.niubiys.com/dtv/index.html",
+    "数组": "lazyload&&</a>",
+    "标题": "title=\"&&\"",
+    "图片": "data-original=\"&&\"",
+    "简介": "🔥集多为你介绍剧情+stui-content__desc\">&&</div>",
+    "副标题": "🔥集多推荐🔥-+class=\"pic-text text-right\">&&</span>",
+    "播放数组": "stui-content__playlist clearfix&&</ul>",
+    "播放列表": "<a&&a>",
+    "播放链接": "href=\"&&\"",
+    "播放标题": "🔥+self\">&&<",
+    "线路数组": " pull-right\"></span>&&/div>",
+    "线路标题": "🔥集多甄选🔥+>&&</",
+    "搜索请求头": "User-Agent$MOBILE_UA",
+    "搜索url": " https://www.niubiys.com/search.php?page={pg}&searchword={wd}&searchtype=",
+    "搜索模式": "1",
+    "搜索副标题": "🔥集多推荐🔥",
+    "分类url": " https://www.niubiys.com/{cateId}/index{catePg}.html[https://www.niubiys.com/{cateId}]",
+    "分类": "短剧$dtv#女频恋爱$nvpinlianai#反转爽剧$fanzhuanshuangju#古装仙侠$guzhuangxianxia#年代穿越$niandaichuanyue#脑洞悬疑$naodongxuanyi#现代都市$xiandaidushi"
+}
