@@ -1,0 +1,22 @@
+{
+    "主页url": "https://www.caomin2028.com/vodtype/31.html",
+    "数组": "stui-vodlist__thumb lazyload&&</a",
+    "图片": "data-original=\"&&\"",
+    "标题": "title=\"&&\"",
+    "副标题": "✨集多推荐✨-+text-right\">&&</span",
+    "链接": "href=\"&&\"",
+    "简介": "🚬集多为您介绍剧情🪐+<p class=\"col-pd\">&&</p",
+    "线路数组": "stui-pannel__head bottom-line&&</div",
+    "线路标题": "✨集多专享✨+>&&</h",
+    "播放数组": "<ul class=\"stui-content__playlist&&</ul",
+    "跳转播放链接": "urlDecode(var player_*\"url\":\"&&\")",
+    "搜索模式": "1",
+    "搜索数组": "stui-vodlist__thumb lazyload&&</a",
+    "搜索图片": "data-original=\"&&\"",
+    "搜索标题": "title=\"&&\"",
+    "搜索副标题": "✨集多推荐✨-+text-right\">&&</span",
+    "搜索链接": "",
+    "搜索url": "/vodsearch/-------------.html?wd={wd}&page={pg}",
+    "分类url": "https://www.caomin2028.com/vodtype/{cateId}-{catePg}.html",
+    "分类": "短剧$31"
+}

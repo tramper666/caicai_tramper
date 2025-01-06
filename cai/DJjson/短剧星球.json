@@ -1,0 +1,27 @@
+{
+    "发布页": "https://xindizhi.github.io/waipian/",
+    "主页url": "https://waipian14.com/",
+    "首页": "短剧",
+    "二次截取":"module-items\">&&div class=\"footer\">",
+    "数组": "<a&&module-poster-item-info\">",
+    "图片": "data-src=\"&&\"",
+    "标题": "title=\"&&\"",
+    "副标题": "✨集多推荐✨-+note\">&&</div>",
+    
+    "链接": "href=\"&&\"",
+    "简介": "💕集多友情提示:长时间看片，对眼睛有害噢!💕+div class=\"module-info-introduction-content\">&&</div>",
+    "线路数组": "data-dropdown-value=&&</div>",
+    "线路标题": "✨集多专享✨-+>&&</span>",
+    "播放数组": "module-play-list-content module-play-list&&</div>",
+    "播放列表": "class=\"module-play-list-link\"&&</a",
+    "播放标题": ">&&</a",
+    "搜索url": "https://waipian14.com/search-{wd}-------------/",
+    "搜索数组": "module-card-item-class\">&&</a",
+    "搜索标题": "✨集多推荐✨-+alt=\"&&\"",
+    "搜索图片": "data-src=\"&&\"",
+    "搜索链接": "href=\"&&\"",
+    "分类url": "https://waipian14.com/show-{cateId}-----{catePg}---{year}/;;am0k",
+   // "分类url": "https://waipian14.com/show-{cateId}-{area}-{by}-{class}-----{catePg}---{year}/;;am0k",
+   "分类": "短剧$duanju---短剧#穿越$duanju---穿越#重生$duanju---重生#都市$duanju---都市#现代言情$duanju---现代言情#古装$duanju---古装"
+   
+}

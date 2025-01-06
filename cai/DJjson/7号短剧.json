@@ -1,0 +1,22 @@
+{
+    "请求头": "User-Agent$MOBILE_UA",
+    "首页": "短剧",
+    "主页url": "https://www.num7.xyz",
+    "嗅探词": ".mp4#.m3u8#.flv",
+    "二次截取": "module-main module-class\">&&id=\"page\">",
+    "数组": "<a&&</div></div></a>",
+    "图片": "data-original=\"&&\"",
+    "标题": "title=\"&&\"",
+    "链接": "href=\"&&\"",
+    "副标题": "💦集多推荐💦-+<div class=\"module-item-note\">&&</div",
+    "线路数组": "<div class=\"module-tab-item tab-item&&</div",
+    "线路标题": "🔥集多专享🔥+>&&</span",
+    "播放数组": "module-play-list-content&&</div>",
+    "播放列表": "<a&&</a>",
+    "播放标题": ">&&</span>",
+    "播放链接": "href=\"&&\"",
+    "跳转播放链接": "<script type=\"text/javascript*url\":\"&&\"",
+    "简介": "module-info-introduction-content\"><p>&&</p>",
+    "分类url": "https://www.num7.xyz/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;rc",
+    "分类": "短剧$41"
+}

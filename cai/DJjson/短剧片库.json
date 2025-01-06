@@ -1,0 +1,16 @@
+{
+    "首页": "短剧",
+    "数组": "stui-vodlist__thumb lazyload&&</li>",
+    "副标题": "集多推荐-+pic-text text-right\">&&</span>",
+    "简介": "col-pd detail-content\">&&</p",
+    "线路数组": "<h3&&</h3>",
+    "线路标题": "集多专享+> 高清快播 </h3>",
+    "播放数组": "stui-content__playlist clearfix&&</ul>",
+    "播放列表": "<li&&</li",
+    "播放标题": ">&&</a",
+    "播放链接": "href=\"&&\"",
+    "跳转播放链接": "urlDecode(var player_*\"url\":\"&&\")",
+    "嗅探词": "index.m3u8#",
+    "分类url": "https://jing-en.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html[https://www.jing-en.com/zixun/{cateId}.html];;rcxk",
+    "分类": "短剧$30"
+}
