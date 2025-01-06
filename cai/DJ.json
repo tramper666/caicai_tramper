@@ -1,0 +1,2120 @@
+﻿{
+    "集多短剧": "./ko.json",
+    "warningText": "小范围使用，严禁外传。",
+    "logo": "./tp/1.png",
+    "spider": "http://jar.isxzg.cn/xpdy.php?id=JD.txt;md5;19eb103c421f76b9a3b8a1c8fcdcbc38",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
+    "sites": [
+        {
+            "key": "集多豆瓣",
+            "name": "✨12月10日更新✨",
+            "type": 3,
+            "api": "csp_Douban",
+            "jar": "http://jar.isxzg.cn/xpdy.php?id=jiduo.jar",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./DJjson/douban.json"
+        },
+        {
+            "key": "push_agent",
+            "name": "👁️推送┃配置",
+            "type": 3,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731260565594/JD2.txt",
+            "api": "csp_Push",
+            "changeable": 0,
+            "timeout": 30,
+            "ext": "./lib/tokenm.json"
+        },
+        {
+            "key": "网盘配置",
+            "name": "👁️网盘┃配置",
+            "type": 3,
+            "api": "csp_Config",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731260565594/JD2.txt",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "./lib/tokenm.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+        {
+            "key": "QuarkShare",
+            "name": "👁️夸克┃短剧",
+            "type": 3,
+            "api": "csp_QuarkShare",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731260565594/JD2.txt",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "./json/tokenm.json$$$./txt/quarkshare.txt",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "115Share",
+            "name": "👁️115┃短剧",
+            "type": 3,
+            "api": "csp_P115Share",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731260565594/JD2.txt",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 120,
+            "ext": "./json/tokenm.json$$$./txt/115share.txt$$$db$$$1",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+        {
+            "key": "drpy2_爱看短剧",
+            "name": "👁️爱看┃网盘",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./DJjson/爱看短剧.js"
+        },
+        {
+            "key": "hipy_js_采集之王",
+            "name": "👁️短剧┃采集",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 1,
+            "ext": "./DJjson/采集之王[合].js?type=url&params=../json/采集静态.json"
+        },
+        {
+            "key": "木耳短剧",
+            "name": "👁️木耳┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/木耳短剧.json"
+        },
+        {
+            "key": "龙伊短剧",
+            "name": "👁️龙伊┃短剧",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://apple.xn--kwr743m.top/api.php/app/"
+        },
+        {
+            "key": "Cally短剧",
+            "name": "👁️Cally┃短剧",
+            "type": 3,
+            "api": "csp_YyCy",
+            "playerType": "2",
+            "jar": "http://jar.isxzg.cn/xpdy.php?id=jiduo.jar",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "ZGQ1MjE5Mzg4WGE2N2VZODUwNFo5YTNhZGQ1MjA=$$$ZGQ1MjE1Yjg4WDg2YWRZY2M5Zlo5YjM3ZGQ1MjA=$$$NlNTOThlZEFidS9TMENqYUYyTVZaVEZMSHFHZm53QnlBalpNTUZKcVVIeFlkOTd3ZGRhQ01HcXZpelhCdTZFMkpYdE43OVFIeUpXMExwL2NSdFBBVHc9PQ==$$$aytQRG9uODN1ZVJtQ2JxVzZ1OFQ2dTdrdXFDUXJCUFdRblJyMEswOVhLTT0=$$$eWdhYkpYY1FNa0hzRFpPamFpc3VCUT09$$$TnpzRkx6b2hVWWhrY0lMSmRhaUdPM3lsbGs0M0hYVmp1dmNkeW9uVG9pcz0=$$$OFJxVHVvZDd5dWRjM3V5UXF5Y3VVQlR3S0FnSlpHWFJhOUpucW9QckdkYz0="
+        },
+        {
+            "key": "好帅短剧",
+            "name": "👁️好帅┃短剧",
+            "type": 3,
+            "api": "csp_YyNhs",
+            "playerType": "2",
+            "jar": "http://jar.isxzg.cn/xpdy.php?id=jiduo.jar",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "ZGQ1MjE5Mzg4WGE2N2VZODUwNFo5YTNhZGQ1MjA=$$$ZGQ1MjE1Yjg4WDg2YWRZY2M5Zlo5YjM3ZGQ1MjA=$$$NlNTOThlZEFidS9TMENqYUYyTVZaVEZMSHFHZm53QnlBalpNTUZKcVVIeFlkOTd3ZGRhQ01HcXZpelhCdTZFMkpYdE43OVFIeUpXMExwL2NSdFBBVHc9PQ==$$$aytQRG9uODN1ZVJtQ2JxVzZ1OFQ2dTdrdXFDUXJCUFdRblJyMEswOVhLTT0=$$$eWdhYkpYY1FNa0hzRFpPamFpc3VCUT09$$$TnpzRkx6b2hVWWhrY0lMSmRhaUdPM3lsbGs0M0hYVmp1dmNkeW9uVG9pcz0=$$$WnlmZmJNbXkraUJSTklZNTc5SFhrOXpQQlhUcFdyREUxVWI2T2Z5d1pDQT0="
+        },
+        {
+            "key": "奇优短剧",
+            "name": "👁️奇优┃短剧",
+            "type": 3,
+            "api": "csp_YyQy",
+            "playerType": "2",
+            "jar": "http://jar.isxzg.cn/xpdy.php?id=jiduo.jar",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "ZGQ1MjE5Mzg4WGE2N2VZODUwNFo5YTNhZGQ1MjA=$$$ZGQ1MjE1Yjg4WDg2YWRZY2M5Zlo5YjM3ZGQ1MjA=$$$NlNTOThlZEFidS9TMENqYUYyTVZaVEZMSHFHZm53QnlBalpNTUZKcVVIeFlkOTd3ZGRhQ01HcXZpelhCdTZFMkpYdE43OVFIeUpXMExwL2NSdFBBVHc9PQ==$$$aytQRG9uODN1ZVJtQ2JxVzZ1OFQ2dTdrdXFDUXJCUFdRblJyMEswOVhLTT0=$$$eWdhYkpYY1FNa0hzRFpPamFpc3VCUT09$$$TnpzRkx6b2hVWWhrY0lMSmRhaUdPM3lsbGs0M0hYVmp1dmNkeW9uVG9pcz0=$$$R2tBMmUyM3lpdHA1bmRBT2hJVWlrM2l4OTlpWGRnTHplWmZIWGJNZTJ5WT0=$$$0"
+        },
+        {
+            "key": "老王短剧",
+            "name": "👁️老王┃短剧",
+            "type": 3,
+            "api": "csp_DuanJuLw",
+            "jar": "http://jar.isxzg.cn/xpdy.php?id=jiduo2.jar",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 160,
+            "ext": {
+                "ss0": "ZGQ1MjE5bThBWGE2OVltNUFaOUM4YWRkNTIw",
+                "ss1": "ZGQ1MjE1Yjk4WDg2YVljMTlGWjlMM3NkZDUyMA==",
+                "warn": "QXFjMnQ4K05qeVkrd0lLVGFNSCtreG1TMGgyajg5MldrN1poK1pmNnN2d3pjR2w0SVJQMmFGVUs0aDNhTUtZag==",
+                "subTitle": "RGN1QjBiRnFPZEVaL3pBb1RTMVpteTh2dnFVeGxXN1lPaXdHZkV6SnFzND0=",
+                "lineTitle": "RGN1QjBiRnFPZEVaL3pBb1RTMVpteTh2dnFVeGxXN1lPaXdHZkV6SnFzND0=",
+                "actors": "Yy9ZNmV5d2xCMUpSRVZ5S2llSTFhUT09",
+                "contents": "ZFYwV0pISjc1c0w1cGdJb1JsY2Y0NysrZWlYTVJBMmdnMFNmUjdURWkwbmxBVGgvZ3IvWnJKM2hwV0lEUUkvbQ==",
+                "siteUrl": "aU1YZ0RreGJzK3ZIR1ZmZnRyM2lkcWNZYmNwYkNlbU5zWWFEd3pYdW1WZz0=",
+                "addVod": "bk5WNWNQYWw3N29MNGVoNkdrWVR0bUNBdjkycTcvSlZFemJ1d2hWUUh2UExNUlp6VDk4S0w3WjdXbm1KVE80WWhGdGlSWlQ5NHZMRVZEUDV6NXJQRlYzTEtpeURkRzJUK0lKaWh1SGlyTTFoRWRKSnNnd01DazFzU0UvMzA5MjhnZlN4Y3BiM3hRdFJWNWZteXFVRXdBPT0="
+            }
+        },
+        {
+            "key": "理理短剧",
+            "name": "👁️理理┃短剧",
+            "type": 3,
+            "api": "csp_DuanJuLl",
+            "jar": "http://jar.isxzg.cn/xpdy.php?id=jiduo2.jar",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 160,
+            "ext": {
+                "ss0": "ZGQ1MjE5bThBWGE2OVltNUFaOUM4YWRkNTIw",
+                "ss1": "ZGQ1MjE1Yjk4WDg2YVljMTlGWjlMM3NkZDUyMA==",
+                "warn": "QXFjMnQ4K05qeVkrd0lLVGFNSCtreG1TMGgyajg5MldrN1poK1pmNnN2d3pjR2w0SVJQMmFGVUs0aDNhTUtZag==",
+                "subTitle": "RGN1QjBiRnFPZEVaL3pBb1RTMVpteTh2dnFVeGxXN1lPaXdHZkV6SnFzND0=",
+                "lineTitle": "RGN1QjBiRnFPZEVaL3pBb1RTMVpteTh2dnFVeGxXN1lPaXdHZkV6SnFzND0=",
+                "actors": "Yy9ZNmV5d2xCMUpSRVZ5S2llSTFhUT09",
+                "contents": "ZFYwV0pISjc1c0w1cGdJb1JsY2Y0NysrZWlYTVJBMmdnMFNmUjdURWkwbmxBVGgvZ3IvWnJKM2hwV0lEUUkvbQ==",
+                "siteUrl": "QkcwckwyWWJaQll1dFQ4VmppRjZIcHZIbXpkaHl5M3ltNVBjRTNBMFVTOD0=",
+                "addVod": "bk5WNWNQYWw3N29MNGVoNkdrWVR0bUNBdjkycTcvSlZFemJ1d2hWUUh2UExNUlp6VDk4S0w3WjdXbm1KVE80WWhGdGlSWlQ5NHZMRVZEUDV6NXJQRlYzTEtpeURkRzJUK0lKaWh1SGlyTTFoRWRKSnNnd01DazFzU0UvMzA5MjhnZlN4Y3BiM3hRdFJWNWZteXFVRXdBPT0="
+            }
+        },
+        {
+            "key": "剧屋短剧",
+            "name": "👁️剧屋┃短剧",
+            "type": 3,
+            "api": "csp_DuanJuSm",
+            "jar": "http://jar.isxzg.cn/xpdy.php?id=jiduo2.jar",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 160,
+            "ext": {
+                "ss0": "ZGQ1MjE5bThBWGE2OVltNUFaOUM4YWRkNTIw",
+                "ss1": "ZGQ1MjE1Yjk4WDg2YVljMTlGWjlMM3NkZDUyMA==",
+                "warn": "QXFjMnQ4K05qeVkrd0lLVGFNSCtreG1TMGgyajg5MldrN1poK1pmNnN2d3pjR2w0SVJQMmFGVUs0aDNhTUtZag==",
+                "subTitle": "RGN1QjBiRnFPZEVaL3pBb1RTMVpteTh2dnFVeGxXN1lPaXdHZkV6SnFzND0=",
+                "lineTitle": "RGN1QjBiRnFPZEVaL3pBb1RTMVpteTh2dnFVeGxXN1lPaXdHZkV6SnFzND0=",
+                "actors": "Yy9ZNmV5d2xCMUpSRVZ5S2llSTFhUT09",
+                "contents": "ZFYwV0pISjc1c0w1cGdJb1JsY2Y0NysrZWlYTVJBMmdnMFNmUjdURWkwbmxBVGgvZ3IvWnJKM2hwV0lEUUkvbQ==",
+                "siteUrl": "YlozN2VFdWpzOXFUYXRMWjZCSVFLbW5XWnkrWVJKUHNyYVBGRzVaQ1BmMD0=",
+                "addVod": "bk5WNWNQYWw3N29MNGVoNkdrWVR0bUNBdjkycTcvSlZFemJ1d2hWUUh2UExNUlp6VDk4S0w3WjdXbm1KVE80WWhGdGlSWlQ5NHZMRVZEUDV6NXJQRlYzTEtpeURkRzJUK0lKaWh1SGlyTTFoRWRKSnNnd01DazFzU0UvMzA5MjhnZlN4Y3BiM3hRdFJWNWZteXFVRXdBPT0="
+            }
+        },
+        {
+            "key": "drpy2_星芽短剧",
+            "name": "👁️星芽┃短剧",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./DJjson/星芽短剧.js"
+        },
+        {
+            "key": "星芽短剧2",
+            "name": "👁️星芽┃短剧2",
+            "type": 3,
+            "api": "csp_DuanJuXy",
+            "jar": "http://jar.isxzg.cn/xpdy.php?id=jiduo2.jar",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 160,
+            "ext": {
+                "ss0": "ZGQ1MjE5bThBWGE2OVltNUFaOUM4YWRkNTIw",
+                "ss1": "ZGQ1MjE1Yjk4WDg2YVljMTlGWjlMM3NkZDUyMA==",
+                "warn": "QXFjMnQ4K05qeVkrd0lLVGFNSCtreG1TMGgyajg5MldrN1poK1pmNnN2d3pjR2w0SVJQMmFGVUs0aDNhTUtZag==",
+                "subTitle": "RGN1QjBiRnFPZEVaL3pBb1RTMVpteTh2dnFVeGxXN1lPaXdHZkV6SnFzND0=",
+                "lineTitle": "RGN1QjBiRnFPZEVaL3pBb1RTMVpteTh2dnFVeGxXN1lPaXdHZkV6SnFzND0=",
+                "actors": "Yy9ZNmV5d2xCMUpSRVZ5S2llSTFhUT09",
+                "contents": "ZFYwV0pISjc1c0w1cGdJb1JsY2Y0NysrZWlYTVJBMmdnMFNmUjdURWkwbmxBVGgvZ3IvWnJKM2hwV0lEUUkvbQ==",
+                "siteUrl": "aFBNdUdTWldnZjVlckVaUjc0VHZ1czFqS3BWcXBHVmpZYjJ0WVVsQ3pNMD0=",
+                "addVod": "bk5WNWNQYWw3N29MNGVoNkdrWVR0bUNBdjkycTcvSlZFemJ1d2hWUUh2UExNUlp6VDk4S0w3WjdXbm1KVE80WWhGdGlSWlQ5NHZMRVZEUDV6NXJQRlYzTEtpeURkRzJUK0lKaWh1SGlyTTFoRWRKSnNnd01DazFzU0UvMzA5MjhnZlN4Y3BiM3hRdFJWNWZteXFVRXdBPT0=",
+                "picAppear": "4",
+                "auth": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzAwMDYxMDcsIlVzZXJJZCI6NjMwMzU5NDAsInJlZ2lzdGVyX3RpbWUiOiIyMDI0LTEwLTEwIDIyOjIxOjAyIiwiaXNfbW9iaWxlX2JpbmQiOmZhbHNlLCJkIjoiMjRmOWZkYzQzMGM4MDM4MTJiNDhmZTI5OGRiOTBmZmU2In0.k5OSXuvcmII3NKTxZufodsMv7Q7rr2gKiO-2p9LZFRE"
+            }
+        },
+        {
+            "api": "./py/五五短剧.py",
+            "filterable": 1,
+            "key": "py_五五短剧",
+            "name": "👁️伍伍┃短剧（PY）",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "./py/短剧大全.py",
+            "filterable": 1,
+            "key": "py_短剧大全",
+            "name": "👁️短剧┃大全（PY）",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "./py/爱我短剧.py",
+            "filterable": 1,
+            "key": "py_爱我短剧",
+            "name": "👁️爱我┃短剧（PY）",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "./py/爱你短剧.py",
+            "filterable": 1,
+            "key": "py_爱你短剧",
+            "name": "👁️爱你┃短剧（PY）",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "./py/花生短剧.py",
+            "filterable": 1,
+            "key": "py_花生短剧",
+            "name": "👁️花生┃短剧（PY）",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "./py/趣看短剧.py",
+            "filterable": 1,
+            "key": "py_趣看短剧",
+            "name": "👁️趣看┃短剧（PY）",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "./py/乐享短剧.py",
+            "filterable": 1,
+            "key": "py_乐享短剧",
+            "name": "👁️乐享┃短剧（PY）",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "api": "./py/无敌短剧.py",
+            "filterable": 1,
+            "key": "py_无敌短剧",
+            "name": "👁️无敌┃短剧（PY）",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "key": "秒播短剧",
+            "name": "👁️秒播┃短剧",
+            "type": 3,
+            "api": "csp_AppXY",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "jar": "http://jar.isxzg.cn/xpdy.php?id=spider0529.jar"
+        },
+        {
+            "key": "驿站短剧",
+            "name": "👁️驿站┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "http://jar.isxzg.cn/xpdy.php?id=JD3.txt",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/驿站短剧.json"
+        },
+        {
+            "key": "久播短剧",
+            "name": "👁️久播┃短剧",
+            "type": 3,
+            "api": "csp_YyCchs",
+            "jar": "http://jar.isxzg.cn/xpdy.php?id=jiduo.jar",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "暴风短剧",
+            "name": "👁️暴风┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/暴风短剧.json"
+        },
+        {
+            "key": "七味大全",
+            "name": "👁️七味┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/七味短剧.json"
+        },
+        {
+            "key": "drpy2_辣椒短剧",
+            "name": "👁️辣椒┃短剧",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./DJjson/辣椒短剧.js"
+        },
+        {
+            "key": "drpy2_瓜子短剧",
+            "name": "👁️瓜子┃短剧",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./DJjson/瓜子短剧.js"
+        },
+        {
+            "key": "drpy2_蓝莓短剧",
+            "name": "👁️蓝莓┃短剧",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./DJjson/蓝莓短剧.js"
+        },
+        {
+            "key": "drpy2_集百动画",
+            "name": "👁️集百┃动画",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./DJjson/集百动画.js"
+        },
+        {
+            "key": "一起短剧",
+            "name": "👁️一起┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/一起看吧.json"
+        },
+        {
+            "key": "影趣短剧",
+            "name": "👁️影趣┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/影趣短剧.json"
+        },
+        {
+            "key": "微云短剧",
+            "name": "👁️微云┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/微云短剧.json"
+        },
+        {
+            "key": "短剧追剧",
+            "name": "👁️短剧┃追剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/短剧追剧.json"
+        },
+        {
+            "key": "追剧短剧",
+            "name": "👁️追剧┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/追剧短剧.json"
+        },
+        {
+            "key": "抖音短剧",
+            "name": "👁️抖音┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/抖音短剧.json"
+        },
+        {
+            "key": "四海短剧",
+            "name": "👁️四海┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/四海短剧.json"
+        },
+        {
+            "key": "即看短剧",
+            "name": "👁️即看┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/即看短剧.json"
+        },
+        {
+            "key": "宇宇短剧",
+            "name": "👁️宇宇┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/宇宇短剧.json"
+        },
+        {
+            "key": "洋葱短剧",
+            "name": "👁️洋葱┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/洋葱短剧.json"
+        },
+        {
+            "key": "糯米短剧",
+            "name": "👁️糯米┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/糯米短剧.json"
+        },
+        {
+            "key": "皮皮短剧",
+            "name": "👁️皮皮┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/皮皮短剧.json"
+        },
+        {
+            "key": "蝌蚪短剧",
+            "name": "👁️蝌蚪┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/蝌蚪短剧.json"
+        },
+        {
+            "key": "水牛短剧",
+            "name": "👁️水牛┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/水牛短剧.json"
+        },
+        {
+            "key": "山水短剧",
+            "name": "👁️山水┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/山水短剧.json"
+        },
+        {
+            "key": "魅影短剧",
+            "name": "👁️魅影┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/魅影短剧.json"
+        },
+        {
+            "key": "欣欣短剧",
+            "name": "👁️欣欣┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/欣欣短剧.json"
+        },
+        {
+            "key": "唐人短剧",
+            "name": "👁️唐人┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/唐人短剧.json"
+        },
+        {
+            "key": "宝丽短剧",
+            "name": "👁️宝丽┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/宝丽短剧.json"
+        },
+        {
+            "key": "月亮短剧",
+            "name": "👁️月亮┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/月亮短剧.json"
+        },
+        {
+            "key": "365短剧",
+            "name": "👁️365┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/365短剧.json"
+        },
+        {
+            "key": "小鸭短剧",
+            "name": "👁️小鸭┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/小鸭短剧.json"
+        },
+        {
+            "key": "酷猫短剧",
+            "name": "👁️酷猫┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/酷猫短剧.json"
+        },
+        {
+            "key": "神秘短剧",
+            "name": "👁️神秘┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/神秘短剧.json"
+        },
+        {
+            "key": "大树短剧",
+            "name": "👁️大树┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/大树短剧.json"
+        },
+        {
+            "key": "红蚁短剧",
+            "name": "👁️红蚁┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/红蚁短剧.json"
+        },
+        {
+            "key": "视觉短剧",
+            "name": "👁️视觉┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/视觉短剧.json"
+        },
+        {
+            "key": "高清短剧",
+            "name": "👁️高清┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/高清短剧.json"
+        },
+        {
+            "key": "红桃短剧",
+            "name": "👁️红桃┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/红桃短剧.json"
+        },
+        {
+            "key": "NUU短剧",
+            "name": "👁️NUU┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/NUU短剧.json"
+        },
+        {
+            "key": "傻傻短剧",
+            "name": "👁️傻傻┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/傻傻短剧.json"
+        },
+        {
+            "key": "河马短剧",
+            "name": "👁️河马┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/河马短剧.json"
+        },
+        {
+            "key": "涡河短剧",
+            "name": "👁️涡河┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/涡河短剧.json"
+        },
+        {
+            "key": "狂人短剧",
+            "name": "👁️狂人┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/狂人短剧.json"
+        },
+        {
+            "key": "影梦短剧",
+            "name": "👁️影梦┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/影梦短剧.json"
+        },
+        {
+            "key": "飞流短剧",
+            "name": "👁️飞流┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/飞流短剧.json"
+        },
+        {
+            "key": "蚂蚁短剧",
+            "name": "👁️蚂蚁┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/蚂蚁短剧.json"
+        },
+        {
+            "key": "全年短剧",
+            "name": "👁️全年┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/全年短剧.json"
+        },
+        {
+            "key": "小坝短剧",
+            "name": "👁️小坝┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/小坝短剧.json"
+        },
+        {
+            "key": "泥鳅短剧",
+            "name": "👁️泥鳅┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/泥鳅短剧.json"
+        },
+        {
+            "key": "短剧小网",
+            "name": "👁️短剧┃小网",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/短剧小网.json"
+        },
+        {
+            "key": "短剧小网2",
+            "name": "👁️短剧┃小网2",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/短剧小网2.json"
+        },
+        {
+            "key": "PTT短剧",
+            "name": "👁️PTT┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/小坝短剧.json"
+        },
+        {
+            "key": "森林短剧",
+            "name": "👁️森林┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/森林短剧.json"
+        },
+        {
+            "key": "555短剧",
+            "name": "👁️555┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/555短剧.json"
+        },
+        {
+            "key": "111短剧",
+            "name": "👁️111┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/111短剧.json"
+        },
+        {
+            "key": "妖狐短剧",
+            "name": "👁️妖狐┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/妖狐短剧.json"
+        },
+        {
+            "key": "安迪短剧",
+            "name": "👁️安迪┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/安迪短剧.json"
+        },
+        {
+            "key": "蒜瓣短剧",
+            "name": "👁️蒜瓣┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/蒜瓣短剧.json"
+        },
+        {
+            "key": "蛙蛙短剧",
+            "name": "👁️蛙蛙┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/蛙蛙短剧.json"
+        },
+        {
+            "key": "海草短剧",
+            "name": "👁️海草┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/海草短剧.json"
+        },
+        {
+            "key": "量子短剧",
+            "name": "👁️量子┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/量子短剧.json"
+        },
+        {
+            "key": "映迷短剧",
+            "name": "👁️映迷┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "http://jar.isxzg.cn/xpdy.php?id=JD3.txt",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/映迷短剧.json"
+        },
+        {
+            "key": "优视短剧",
+            "name": "👁️优视┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "http://jar.isxzg.cn/xpdy.php?id=JD3.txt",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/优视短剧.json"
+        },
+        {
+            "key": "神马短剧",
+            "name": "👁️神马┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "3",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/神马短剧.json"
+        },
+        {
+            "key": "神马短剧2",
+            "name": "👁️神马┃短剧2",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/神马短剧2.json"
+        },
+        {
+            "key": "纽约短剧",
+            "name": "👁️纽约┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/纽约短剧.json"
+        },
+        {
+            "key": "专享短剧",
+            "name": "👁️专享┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/专享短剧.json"
+        },
+        {
+            "key": "桥矿短剧",
+            "name": "👁️桥矿┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/桥矿短剧.json"
+        },
+        {
+            "key": "米兔短剧",
+            "name": "👁️米兔┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/米兔短剧.json"
+        },
+        {
+            "key": "益达短剧",
+            "name": "👁️益达┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/益达短剧.json"
+        },
+        {
+            "key": "城市短剧",
+            "name": "👁️城市┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/城市短剧.json"
+        },
+        {
+            "key": "弎伍短剧",
+            "name": "👁️弎伍┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/弎伍短剧.json"
+        },
+        {
+            "key": "夜影短剧",
+            "name": "👁️夜影┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/夜影短剧.json"
+        },
+        {
+            "key": "莱特短剧",
+            "name": "👁️莱特┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/莱特短剧.json"
+        },
+        {
+            "key": "火车短剧",
+            "name": "👁️火车┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/火车短剧.json"
+        },
+        {
+            "key": "尺度短剧",
+            "name": "👁️尺度┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/尺度短剧.json"
+        },
+        {
+            "key": "纤纤短剧",
+            "name": "👁️纤纤┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/纤纤短剧.json"
+        },
+        {
+            "key": "美剧短剧",
+            "name": "👁️美剧┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/美剧短剧.json"
+        },
+        {
+            "key": "一个短剧",
+            "name": "👁️一个┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/一个短剧.json"
+        },
+        {
+            "key": "大熊短剧",
+            "name": "👁️大熊┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/大熊短剧.json"
+        },
+        {
+            "key": "胖虎短剧",
+            "name": "👁️胖虎┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/胖虎短剧.json"
+        },
+        {
+            "key": "KLM短剧",
+            "name": "👁️KLM┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/KLM短剧.json"
+        },
+        {
+            "key": "电视短剧",
+            "name": "👁️电视┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/电视短剧.json"
+        },
+        {
+            "key": "短剧小屋",
+            "name": "👁️短剧┃小屋",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/短剧小屋.json"
+        },
+        {
+            "key": "奈飞短剧",
+            "name": "👁️奈飞┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/奈飞短剧.json"
+        },
+        {
+            "key": "歪片短剧",
+            "name": "👁️歪片┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/歪片短剧.json"
+        },
+        {
+            "key": "Y叁短剧",
+            "name": "👁️Y叁┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/Y叁短剧.json"
+        },
+        {
+            "key": "穿云短剧",
+            "name": "👁️穿云┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/穿云短剧.json"
+        },
+        {
+            "key": "映播短剧",
+            "name": "👁️映播┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/映播短剧.json"
+        },
+        {
+            "key": "没事短剧",
+            "name": "👁️没事┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/没事短剧.json"
+        },
+        {
+            "key": "海纳短剧",
+            "name": "👁️海纳┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/海纳短剧.json"
+        },
+        {
+            "key": "drpy2_爽爽短剧",
+            "name": "👁️爽爽┃短剧",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./DJjson/爽爽短剧.js"
+        },
+        {
+            "key": "爽爽短剧",
+            "name": "👁️爽爽┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/爽爽短剧.json"
+        },
+        {
+            "key": "必搜短剧",
+            "name": "👁️必搜┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/必搜短剧.json"
+        },
+        {
+            "key": "青柠短剧",
+            "name": "👁️青柠┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/青柠短剧.json"
+        },
+        {
+            "key": "短剧网站",
+            "name": "👁️短剧┃网站",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/短剧网站.json"
+        },
+        {
+            "key": "来看短剧",
+            "name": "👁️来看┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/来看短剧.json"
+        },
+        {
+            "key": "热剧短剧",
+            "name": "👁️热剧┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/热剧短剧.json"
+        },
+        {
+            "key": "千梦短剧",
+            "name": "👁️千梦┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/千梦短剧.json"
+        },
+        {
+            "key": "80短剧",
+            "name": "👁️80┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/80短剧.json"
+        },
+        {
+            "key": "789短剧",
+            "name": "👁️789┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/789短剧.json"
+        },
+        {
+            "key": "神马短剧",
+            "name": "👁️神马┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "3",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/神马短剧.json"
+        },
+        {
+            "key": "不休短剧",
+            "name": "👁️不休┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/不休短剧.json"
+        },
+        {
+            "key": "胖嘟嘟",
+            "name": "👁️胖嘟┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类": "全部$qb#言情$yq#古代$dg#都市$ds",
+                "分类url": "https://m.pangdo.com/{cateId}/list_{catePg}.html"
+            }
+        },
+        {
+            "key": "毒舌短剧",
+            "name": "👁️毒舌┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/毒舌短剧.json"
+        },
+        {
+            "key": "爱看短剧",
+            "name": "👁️爱看┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/爱看短剧.json"
+        },
+        {
+            "key": "短剧片库",
+            "name": "👁️短剧┃片库",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/短剧片库.json"
+        },
+        {
+            "key": "短剧星球",
+            "name": "👁️短剧┃星球",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/短剧星球.json"
+        },
+        {
+            "key": "金曼短剧",
+            "name": "👁️金曼┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/金曼短剧.json"
+        },
+        {
+            "key": "全视短剧",
+            "name": "👁️全视┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/全视短剧.json"
+        },
+        {
+            "key": "顶级短剧",
+            "name": "👁️顶级┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/顶级短剧.json"
+        },
+        {
+            "key": "小小短剧",
+            "name": "👁️小小┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/小小短剧.json"
+        },
+        {
+            "key": "短剧小吧",
+            "name": "👁️短剧┃小吧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/短剧小吧.json"
+        },
+        {
+            "key": "稀饭短剧",
+            "name": "👁️稀饭┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/稀饭短剧.json"
+        },
+        {
+            "key": "晨光短剧",
+            "name": "👁️晨光┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/晨光短剧.json"
+        },
+        {
+            "key": "蓝光短剧",
+            "name": "👁️蓝光┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/蓝光短剧.json"
+        },
+        {
+            "key": "草民短剧",
+            "name": "👁️草民┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/草民短剧.json"
+        },
+        {
+            "key": "草民短剧2",
+            "name": "👁️草民┃短剧2",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/草民短剧2.json"
+        },
+        {
+            "key": "乐鱼短剧",
+            "name": "👁️乐鱼┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/乐鱼短剧.json"
+        },
+        {
+            "key": "短剧部落",
+            "name": "👁️短剧┃部落",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/短剧部落.json"
+        },
+        {
+            "key": "猫猫短剧",
+            "name": "👁️猫猫┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/猫猫短剧.json"
+        },
+        {
+            "key": "火狼短剧",
+            "name": "👁️火狼┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/火狼短剧.json"
+        },
+        {
+            "key": "秋霞短剧",
+            "name": "👁️秋霞┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/秋霞短剧.json"
+        },
+        {
+            "key": "CC短剧",
+            "name": "👁️CC┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./DJjson/CC短剧.json"
+        },
+        {
+            "key": "小屋短剧",
+            "name": "👁️小屋┃短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": "./DJjson/小屋短剧.json"
+        },
+        {
+            "key": "银狐短剧",
+            "name": "👁️银狐┃短剧",
+            "type": 1,
+            "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "短剧"
+            ]
+        },
+        {
+            "key": "速博短剧",
+            "name": "👁️速博┃短剧",
+            "type": 1,
+            "api": "https://subocaiji.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "短剧"
+            ]
+        },
+        {
+            "key": "cjzy_360资源",
+            "name": "👁️360┃短剧",
+            "type": 1,
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://360zy.com/api.php/provide/vod",
+            "categories": [
+                "爽文短剧",
+                "现代都市",
+                "脑洞悬疑",
+                "年代穿越",
+                "古装仙侠",
+                "反转爽剧",
+                "女频恋爱",
+                "成长逆袭"
+            ]
+        },
+        {
+            "key": "zy_暴风资源",
+            "name": "👁️暴风┃短剧",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+            "categories": [
+                "反转爽文",
+                "穿越年代",
+                "重生民国",
+                "现代言情",
+                "女恋总裁",
+                "都市脑洞",
+                "闪婚离婚",
+                "古装仙侠"
+            ]
+        },
+        {
+            "key": "zy_索尼资源",
+            "name": "👁️索尼┃短剧",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+            "categories": [
+                "反转爽剧",
+                "女频恋爱",
+                "脑洞悬疑",
+                "年代穿越",
+                "古装仙侠",
+                "现代都市"
+            ]
+        },
+        {
+            "key": "快车资源",
+            "name": "👁️快车┃短剧",
+            "type": 1,
+            "playurl": "https://jiexi.kczyapi.com/m3u8/?url=",
+            "api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+            "categories": [
+                "反转爽剧",
+                "女频恋爱",
+                "脑洞悬疑",
+                "年代穿越",
+                "古装仙侠",
+                "现代都市"
+            ]
+        },
+        {
+            "key": "drpy2_暮薇短剧",
+            "name": "👁️暮薇┃短剧🚀",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./DJjson/暮薇短剧.js"
+        }
+    ],
+    "parses": [
+        {
+            "name": "👁️集多解析A",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "👁️集多解析B",
+            "type": 3,
+            "url": "Web"
+        },
+        {
+            "name": "👁️集多解析C",
+            "type": 0,
+            "url": "https://jx.xmflv.cc/?url=",
+            "ext": {
+                "flags": [
+                    "youku",
+                    "优酷",
+                    "优 酷",
+                    "优酷视频",
+                    "qq",
+                    "腾讯",
+                    "腾 讯",
+                    "腾讯视频",
+                    "iqiyi",
+                    "qiyi",
+                    "奇艺",
+                    "爱奇艺",
+                    "爱 奇 艺",
+                    "m1905",
+                    "xigua",
+                    "letv",
+                    "leshi",
+                    "乐视",
+                    "乐 视",
+                    "sohu",
+                    "搜狐",
+                    "搜 狐",
+                    "搜狐视频",
+                    "tudou",
+                    "pptv",
+                    "mgtv",
+                    "芒果",
+                    "imgo",
+                    "芒果TV",
+                    "芒 果 T V",
+                    "bilibili",
+                    "哔 哩",
+                    "哔 哩 哔 哩"
+                ]
+            }
+        },
+        {
+            "name": "👁️集多解析D",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        }
+    ],
+    "rules": [
+        {
+            "name": "量子",
+            "hosts": [
+                "lz"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+.*(?=.{6}\\..*)[1-9].*",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.041667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5\\.720000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts",
+                "#EXTINF.*?\\s+.*?b015.*?\\.ts",
+                "19.46"
+            ]
+        },
+        {
+            "name": "非凡",
+            "hosts": [
+                "vip.ffzy",
+                "hd.ffzy"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+.*(?=.{6}\\..*)[1-9].*",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.700000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5\\.760000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts",
+                "#EXTINF.*?\\s+.*?116977.*?\\.ts",
+                "20.52"
+            ]
+        },
+        {
+            "name": "暴风",
+            "hosts": [
+                "bfzy",
+                "s5.bfzycdn"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "yqk",
+            "hosts": [
+                "yqk"
+            ],
+            "regex": [
+                "18.4",
+                "15.1666",
+                "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"
+            ]
+        },
+        {
+            "name": "索尼",
+            "hosts": [
+                "suonizy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.1666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15.2666,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "蜗牛",
+            "hosts": [
+                "vip.123pan.cn",
+                "rescdn.wuxivlog.cn"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+            ]
+        },
+        {
+            "name": "cl",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "最 新",
+                "直 播",
+                "更 新"
+            ]
+        },
+        {
+            "host": "rebozj.pro",
+            "rule": [
+                ".mp4",
+                ".m3u8",
+                "https://p3-sign.douyinpic.com",
+                "m3u8"
+            ]
+        },
+        {
+            "host": "https://api.live.bilibili.com",
+            "rule": [
+                "bilivideo.com",
+                "/index.m3u8"
+            ],
+            "filter": [
+                "data.bilibili.com/log/web",
+                "i0.hdslb.com/bfs/live/"
+            ]
+        },
+        {
+            "name": "农民",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "火山",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "抖音",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        }
+    ],
+    "ijk": [
+        {
+            "group": "软解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        },
+        {
+            "group": "硬解码",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "overlay-format",
+                    "value": "842225234"
+                },
+                {
+                    "category": 4,
+                    "name": "framedrop",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "soundtouch",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "start-on-prepared",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "http-detect-range-support",
+                    "value": "0"
+                },
+                {
+                    "category": 1,
+                    "name": "fflags",
+                    "value": "fastseek"
+                },
+                {
+                    "category": 2,
+                    "name": "skip_loop_filter",
+                    "value": "48"
+                },
+                {
+                    "category": 4,
+                    "name": "reconnect",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "enable-accurate-seek",
+                    "value": "0"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-auto-rotate",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-handle-resolution-change",
+                    "value": "1"
+                },
+                {
+                    "category": 4,
+                    "name": "mediacodec-hevc",
+                    "value": "1"
+                },
+                {
+                    "category": 1,
+                    "name": "dns_cache_timeout",
+                    "value": "600000000"
+                }
+            ]
+        }
+    ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
+    "lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "url": "./txt/dj.txt",
+            "playerType": 1,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ]
+}
