@@ -3,26 +3,26 @@
     "urls": [
         {
             "name": "菜菜🥬影视",
-            "url": "file://PG本地/cai/ys.json"
+            "url": "clan://localhost/PG本地/cai/ys.json"
         },
         {
             "name": "菜菜🥬采集",
-            "url": "file://PG本地/cai/cj.json"
+            "url": "clan://localhost/PG本地/cai/cj.json"
         },
         {
             "name": "菜菜🥬网盘",
-            "url": "file://PG本地/cai/wp.json"
+            "url": "clan://localhost/PG本地/cai/wp.json"
         },
         {
             "name": "PG佬🥬网盘",
-            "url": "file://PG本地/cai/jsm.json"
+            "url": "clan://localhost/PG本地/cai/jsm.json"
         },
         {
             "name": "集多🥬短剧",
-            "url": "file://PG本地/cai/DJ.json"
+            "url": "clan://localhost/PG本地/cai/DJ.json"
         },
         {
-            "name": "乐哥🥬短剧",
+            "name": "乐哥👙短剧",
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/dj.json"
         }
     ]
