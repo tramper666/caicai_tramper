@@ -1,0 +1,12 @@
+{
+    "简介": "剧情简介&&</p></div></div></div>",
+    "线路数组": "img src=\"&&</h3>",
+    "线路标题": ">&&<",
+    "播放数组": "class=\"stui-content__playlist clearfix\">&&</ul>",
+    "跳转播放链接": "varurlDecode(var player_*url\":\"&&\")",
+    "嗅探词": "index.m3u8",
+    "搜索url": "https://www.epiao1616.com/vodsearch/{wd}-------------.html",
+    "分类url": "https://www.caomin2028.com/vodtype/{cateId}.html",
+    "分类": "电影&电视剧&动漫&综艺&动画片&影视解说&短剧",
+    "分类值": "1&2&4&3&29&32&31"
+}

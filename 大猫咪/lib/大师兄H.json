@@ -1,0 +1,5 @@
+		{
+			"简介": "<div class=\"stui-content__desc col-pd clearfix\">&&</div",			
+			"分类url": "http://www.25dy.site/index.php/vodshow/{cateId}--{by}------{catePg}---{year}.html",
+			"分类": "电影$movie#剧集$tv#综艺$zongyi#动漫$dongman#艺术片$dianying"
+		}
