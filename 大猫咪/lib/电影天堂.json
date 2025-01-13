@@ -1,0 +1,20 @@
+{
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "gb2312",
+    "主页url": "https://www.dytt235.com/",
+    "数组": "class=\"list_mov_i\"&&</a>",
+    "图片": "data-original=\"&&\"",
+    "标题": "alt=\"&&\"",
+    "副标题": "version4\">&&</span>",
+    "链接": "href=\"&&\"",
+    "播放数组": "movie_play plstyle&&</div>",
+    "播放列表": "<li>&&</li>",
+    "播放链接": "href = \"&&\"",
+    "播放标题": ">&&</a >",
+    "线路数组": "<li id=\"pl&&</li>",
+    "线路标题": "\">&&<div class=\"line\"",
+    "跳转播放链接": "var art=new Artplayer*url:\"&&\"",
+    "分类url": "https://www.dytt235.com/{cateId}/0-0-0-0-{by}-{catePg}",
+    "分类": "电影$movie#电视剧$tv#综艺$variety#动漫$cartoon",
+    "排序": "最近更新$1#人气$2#评分$3"
+}

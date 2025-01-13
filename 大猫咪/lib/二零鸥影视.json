@@ -1,0 +1,21 @@
+{
+    "站名": "二零鸥影视",
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "主页url": "https://www.20o.cc",
+    "图片代理": "0",
+    "倒序": "1",
+    "数组": "<article&&</p>",
+    "标题": "title=\"&&\"",
+    "图片": "data-original=\"&&\"",
+    "副标题": "✨+video-title*>&&<",
+    "链接": "href=\"&&\"",
+    "线路数组": "✨+swiper-slide ewave-tab swiper-slide-active active&&</li>",
+    "线路标题": "✨小张推荐✨+<a&&</a",
+    "播放列表": "<a&&a>",
+    "播放链接": "href=\"&&\"",
+    "播放标题": "✨+>&&<",
+    "简介": "✨+entry-content clearfix&&</p></div>",
+    "分类url": " https://www.20o.cc/type/{cateId}-{catePg}/;;mrcd0",
+    "分类": "电影$dianying)#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
+}
