@@ -40,10 +40,11 @@ var index_config_default = {
     cookie: ""
   },
   uc: {
-    cookie: ""
+    cookie: "",
+    token: ""
   },
   y115: {
-    cookie: ''
+    cookie: ""
   },
   tyi: {
     username: "",
@@ -62,11 +63,13 @@ var index_config_default = {
   },
   tgsou: {
     tgPic: false,
+    //每个频道返回数量
+    count: "4",
     url: 'https://tgsou.651156.xyz',
     channelUsername: "Q66Share,alyp_TV,ucpanpan,ucquark,tianyirigeng,shares_115,cloud189_group,tianyi_pd2,hao115,guaguale115,yunpanchat,ydypzyfx,tgsearchers,NewQuark,Mbox115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,Quark_Movies,qixingzhenren,longzbija,alyp_4K_Movies,yunpanshare,shareAliyun,ikiviyyp,alyp_1",
   },
   wogg: {
-    url: "https://www.wogg.net"
+    url: "https://woggpan.333232.xyz"
   },
   tudou: {
     url: "https://tudou.lvdoui.top"
@@ -110,119 +113,119 @@ var index_config_default = {
   },
   alist: [
     {
-      "name": "🟢 合集",
+      "name": "合集",
       "server": "http://www.jczyl.top:5244/"
     },
     {
-      "name": "🟢 东哥",
+      "name": "东哥",
       "server": "http://101.34.67.237:5244/"
     },
     {
-      "name": "🟢 美云",
+      "name": "美云",
       "server": "https://h.dfjx.ltd/"
     },
     {
-      "name": "🟢 小新",
+      "name": "小新",
       "server": "https://pan.cdnxin.top/"
     },
     {
-      "name": "🟢 白云",
+      "name": "白云",
       "server": "http://breadmyth.asuscomm.com:22222/"
     },
     {
-      "name": "🟢 小鸭",
+      "name": "小鸭",
       "server": "http://www.214728327.xyz:5201/"
     },
     {
-      "name": "🟢 瑶瑶",
+      "name": "瑶瑶",
       "server": "https://lyly.run.goorm.io/"
     },
     {
-      "name": "🟢 潇洒",
+      "name": "潇洒",
       "server": "https://alist.azad.asia/"
     },
     {
-      "name": "🟢 鹏程",
+      "name": "鹏程",
       "server": "https://pan.pengcheng.team/"
     },
     {
-      "name": "🟢 浅唱",
+      "name": "浅唱",
       "server": "http://vtok.pp.ua/"
     },
     {
-      "name": "🟢 小丫",
+      "name": "小丫",
       "server": "http://alist.xiaoya.pro/"
     },
     {
-      "name": "🟢 触光",
+      "name": "触光",
       "server": "https://pan.ichuguang.com"
     },
     {
-      "name": "🟢 弱水",
+      "name": "弱水",
       "server": "http://shicheng.wang:555/"
     },
     {
-      "name": "🟢 神器",
+      "name": "神器",
       "server": "https://alist.ygxz.xyz/"
     },
     {
-      "name": "🟢 资源",
+      "name": "资源",
       "server": "https://pan.ecve.cn/"
     },
     {
-      "name": "🟢 雨呢",
+      "name": "雨呢",
       "server": "https://pan.clun.top/"
     },
     {
-      "name": "🟢 oeio",
+      "name": "oeio",
       "server": "https://o.oeio.repl.co/"
     },
     {
-      "name": "🟢 悦享",
+      "name": "悦享",
       "server": "https://nics.eu.org/"
     },
     {
-      "name": "🟢 分享",
+      "name": "分享",
       "server": "https://ofoo.ml/"
     },
     {
-      "name": "🟢 PRO",
+      "name": "PRO",
       "server": "https://alist.prpr.run/"
     },
     {
-      "name": "🟢 多多",
+      "name": "多多",
       "server": "https://pan.xwbeta.com"
     },
     {
-      "name": "🟢 小陈",
+      "name": "小陈",
       "server": "https://ypan.cc/"
     },
     {
-      "name": "🟢 只鱼",
+      "name": "只鱼",
       "server": "https://alist.youte.ml"
     },
     {
-      "name": "🟢 七米",
+      "name": "七米",
       "server": "https://al.chirmyram.com"
     },
     {
-      "name": "🟢 九帝",
+      "name": "九帝",
       "server": "https://alist.shenzjd.com"
     },
     {
-      "name": "🟢 白雪",
+      "name": "白雪",
       "server": "https://pan.jlbx.xyz"
     },
     {
-      "name": "🟢 星梦",
+      "name": "星梦",
       "server": "https://pan.bashroot.top"
     },
     {
-      "name": "🟢 repl",
+      "name": "repl",
       "server": "https://ali.liucn.repl.co"
     },
     {
-      "name": "🟢 讯维",
+      "name": "讯维",
       "server": "https://pan.xwbeta.com"
     }
   ],
