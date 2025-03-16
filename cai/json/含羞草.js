@@ -10,7 +10,7 @@ var rule = {
     headers: { 'User-Agent': MOBILE_UA },
     filter: 'H4sIAAAAAAAAA6vmUgACJQslK4VoMBMEquEssGR2aiVQWqmksiBVSQdVKi8xNxUk93zj7qfzutFlyxJzSlNRTMZuA8I4kFnBvmjmIMwDSpsbYsjVYirHZ/7zvROf71qEzw4zC0rteLF80ovOTXjtMKfYjglzX/R14rXDjFI7nm6Y+HRZO147TCm2Y0Lz88lz8NphRLEd/b1Pt6/Da4clxelq076XDZ2OYXhtMaHUlie7dj1dNg2fHYYU55CXuyc+n7kXnx1YIgRFJJYLVTyWqxYA9q28dWoEAAA=',
     timeout: 5000,
-    class_name: '秒播&少女&精选&女同&男同&热播&专题&国产&主播&日韩',
+    class_name: '精选&付费&热播&专题&国产&主播&日韩',
     class_url: '3&7&1&8&4&11&17',
     proxy_rule: $js.toString(() => {
         // console.log("tup====="+input);
